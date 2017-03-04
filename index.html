@@ -43,11 +43,16 @@
 
 ### 虎科大機械設計工程系
 
+####學員 40423248 課程簡報
+
 <small>
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </small>
 
 [協同產品設計實習課程網誌](blog/index.html)
+
+
+## 
 
 
     </script>
@@ -75,12 +80,16 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# 數學符號與方程式
+##第一週
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+###1.本學期課程概要
 
-$$I = \int \rho R^{2} dV$$
+登錄Github到老師的Mdecourse的倉儲看大綱
+
+有介紹一些3D軟體的相聯性
+
+概略介紹C和PYTHON的優缺點
+
     </script>
 </section>
 
@@ -90,32 +99,94 @@ $$I = \int \rho R^{2} dV$$
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+###2.用正確的方式打開Stunnel
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
+進入tiny2017_700MB>data>stunnel>config裡面,修改stunnel.conf
+內容中的最後一段IP位置,要先在cmd中用ipconfig/all找出自己的IPV4位置
+把這個IPV4位置覆蓋掉stunnel.conf最後一段IP位置後儲存,再把fossil程式關掉
+重新打開程式就會正常顯示
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 之後試著登錄https://192.168.1.24/2017springvcp_hw/index
+要記得先Proxy的進階選項設定另外的IP選項
+才可以進入裡面做登錄的動作
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 3.用PYTHON程式碼來控制V-rep中的四連桿機構作動
+
+進入作業倉儲的data裡面,把fourlinkage的壓縮檔解開,
+得到單連桿,四連桿,八連桿,可在Solvespace和V-rep中開啟
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+## 使用 iframe 導入影片
+
+### 導入影片 template
+
+<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##第二週
+
+###1.
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###2.
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 3
     </script>
 </section>
 

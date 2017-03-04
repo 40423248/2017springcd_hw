@@ -35,19 +35,43 @@
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
+<v t="leo.20170304145953.1"><vh>2017CD Week1</vh></v>
 </v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="yen.20170120110024.11" a="E"><vh>Week1</vh>
+<v t="yen.20170120110024.12" a="E"><vh>Week1 content</vh>
+<v t="yen.20170120110024.13"><vh>Week1-1</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
+<v t="yen.20170120110024.14" a="E"><vh>Week1-2</vh>
 <v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170304152605.1" a="E"><vh>Week1-3</vh>
+<v t="leo.20170304152605.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170304155027.1"><vh>Week1-4</vh>
+<v t="leo.20170304155027.2"><vh>引用程式碼</vh></v>
 </v>
 <v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20170304161410.1"><vh>Week2</vh>
+<v t="leo.20170304161410.2" a="E"><vh>Week2 content</vh>
+<v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
+</v>
+<v t="leo.20170304161410.4" a="E"><vh>Week2-2</vh>
+<v t="leo.20170304161410.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170304161410.6" a="E"><vh>Week2-3</vh>
+<v t="leo.20170304161410.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170304161410.8" a="E"><vh>Week2-4</vh>
+<v t="leo.20170304161410.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170304161410.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -56,7 +80,7 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="yen.20170221100209.1"><vh>@edit 20170222.md</vh></v>
+<v t="yen.20170221100209.1"><vh>@edit 2017Week1.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -123,6 +147,112 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 
 </t>
+<t tx="leo.20170304145953.1">## 
+
+
+</t>
+<t tx="leo.20170304152605.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304152605.2">## 之後試著登錄https://192.168.1.24/2017springvcp_hw/index
+要記得先Proxy的進階選項設定另外的IP選項
+才可以進入裡面做登錄的動作
+</t>
+<t tx="leo.20170304155027.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304155027.2">## 3.用PYTHON程式碼來控制V-rep中的四連桿機構作動
+
+進入作業倉儲的data裡面,把fourlinkage的壓縮檔解開,
+得到單連桿,四連桿,八連桿,可在Solvespace和V-rep中開啟
+</t>
+<t tx="leo.20170304161410.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170304161410.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170304161410.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170304161410.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304161410.3">##第二週
+
+###1.
+
+</t>
+<t tx="leo.20170304161410.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304161410.5">###2.</t>
+<t tx="leo.20170304161410.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304161410.7">## </t>
+<t tx="leo.20170304161410.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304161410.9">## 3</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -301,12 +431,16 @@ make.start()</t>
 
 						
 </t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
+<t tx="yen.20170120110024.13">##第一週
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+###1.本學期課程概要
 
-$$I = \int \rho R^{2} dV$$
+登錄Github到老師的Mdecourse的倉儲看大綱
+
+有介紹一些3D軟體的相聯性
+
+概略介紹C和PYTHON的優缺點
+
 </t>
 <t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -319,34 +453,12 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+<t tx="yen.20170120110024.15">###2.用正確的方式打開Stunnel
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
+進入tiny2017_700MB&gt;data&gt;stunnel&gt;config裡面,修改stunnel.conf
+內容中的最後一段IP位置,要先在cmd中用ipconfig/all找出自己的IPV4位置
+把這個IPV4位置覆蓋掉stunnel.conf最後一段IP位置後儲存,再把fossil程式關掉
+重新打開程式就會正常顯示</t>
 <t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -452,6 +564,8 @@ make.start()
 <t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
 
 ### 虎科大機械設計工程系
+
+####學員 40423248 課程簡報
 
 &lt;small&gt;
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
