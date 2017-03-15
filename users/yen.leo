@@ -40,7 +40,7 @@
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>Week1</vh>
+<v t="yen.20170120110024.11"><vh>Week1</vh>
 <v t="yen.20170120110024.12" a="E"><vh>Week1 content</vh>
 <v t="yen.20170120110024.13"><vh>Week1-1</vh></v>
 </v>
@@ -99,6 +99,7 @@
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="yen.20170221100209.1"><vh>@edit 2017Week1.md</vh></v>
 <v t="leo.20170315090339.1"><vh>@edit 2017Week2.md</vh></v>
+<v t="leo.20170315091533.1"><vh>@edit 2017Week3.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
