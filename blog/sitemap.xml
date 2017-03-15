@@ -5,41 +5,48 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-07T16:23:57-00:00</lastmod>
+<lastmod>2017-03-15T09:04:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-07T16:23:57-00:00</lastmod>
+<lastmod>2017-03-15T09:04:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-07T16:23:57-00:00</lastmod>
+<lastmod>2017-03-15T09:04:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-07T16:23:57-00:00</lastmod>
+<lastmod>2017-03-15T09:04:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-07T16:21:38+08:00</lastmod>
+<lastmod>2017-03-15T08:58:16+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2017springCD-Week1.html</loc>
+<lastmod>2017-02-22T11:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2017springCD-Week2.html</loc>
 <lastmod>2017-02-22T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -61,6 +68,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/brython.html</loc>
+<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w2.html</loc>
 <lastmod>2017-02-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
