@@ -57,7 +57,7 @@
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170304161410.1"><vh>Week2</vh>
+<v t="leo.20170304161410.1" a="E"><vh>Week2</vh>
 <v t="leo.20170304161410.2" a="E"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
@@ -74,7 +74,7 @@
 <v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315090154.1" a="E"><vh>Week3</vh>
+<v t="leo.20170315090154.1"><vh>Week3</vh>
 <v t="leo.20170315090154.2" a="E"><vh>Week3 content</vh>
 <v t="leo.20170315090154.3"><vh>Week3-1</vh></v>
 </v>
@@ -254,9 +254,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170304161410.3">##第二週
 
-###1.
+###1.用python程式來找出缺課同學
 
-</t>
+###2.用solvespace繪製和組立四連桿機構,再轉檔用v-rep開啟</t>
 <t tx="leo.20170304161410.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -268,7 +268,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170304161410.5">###2.</t>
+<t tx="leo.20170304161410.5">##1.用python程式來找出缺課同學
+
+###到班級倉儲data下載W2資料夾裡的cd_w2.py和w2b_registered.txt，再來用程式碼印出分組名單、座位列表、缺席學生和學生總數</t>
 <t tx="leo.20170304161410.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -280,7 +282,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170304161410.7">## </t>
+<t tx="leo.20170304161410.7">##2.用solvespace繪製和組立四連桿機構,再轉檔用v-rep開啟</t>
 <t tx="leo.20170304161410.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -404,7 +406,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170315092026.3">##第四週
 
-###1.
+###1.介紹x-windows , vnc , remote desktop , 的功能
+
+###2.組長建立fossil倉儲,編輯密碼,並把組員拉入
 
 </t>
 <t tx="leo.20170315092026.4">&lt;section data-markdown&gt;
@@ -418,7 +422,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315092026.5">###2.</t>
+<t tx="leo.20170315092026.5">###1.</t>
 <t tx="leo.20170315092026.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -430,7 +434,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315092026.7">## </t>
+<t tx="leo.20170315092026.7">## 2.</t>
 <t tx="leo.20170315092026.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -442,7 +446,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315092026.9">## 3</t>
+<t tx="leo.20170315092026.9">## 3.</t>
 <t tx="leo.20170315110355.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
