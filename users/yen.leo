@@ -74,7 +74,7 @@
 <v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315090154.1"><vh>Week3</vh>
+<v t="leo.20170315090154.1" a="E"><vh>Week3</vh>
 <v t="leo.20170315090154.2" a="E"><vh>Week3 content</vh>
 <v t="leo.20170315090154.3"><vh>Week3-1</vh></v>
 </v>
@@ -87,11 +87,14 @@
 <v t="leo.20170315090154.8" a="E"><vh>Week3-4</vh>
 <v t="leo.20170315090154.9"><vh>引用程式碼</vh></v>
 </v>
+<v t="leo.20170315110355.1" a="E"><vh>Week3-5</vh>
+<v t="leo.20170315110355.2"><vh>引用程式碼</vh></v>
+</v>
 <v t="leo.20170315090154.10" a="E"><vh>導入影片</vh>
 <v t="leo.20170315090154.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315092026.1"><vh>Week4</vh>
+<v t="leo.20170315092026.1" a="E"><vh>Week4</vh>
 <v t="leo.20170315092026.2" a="E"><vh>Week4 content</vh>
 <v t="leo.20170315092026.3"><vh>Week4-1</vh></v>
 </v>
@@ -322,7 +325,13 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170315090154.3">##第三週
 
-###1.
+###1.打網址進入https://mde2a1.kmol.info/看每週進度
+
+###2.改掉start的fossil路徑
+
+###3.本週主要內容,至課程網頁瀏覽十部影片並挑兩部翻譯
+
+###4.用slovespace繪製四連桿機構並轉檔
 
 </t>
 <t tx="leo.20170315090154.4">&lt;section data-markdown&gt;
@@ -336,7 +345,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315090154.5">###2.</t>
+<t tx="leo.20170315090154.5">###1.打網址進入 "https://mde2a1.kmol.info/"
+
+看每週進度,點進wiki裡面的list,再點進2017springcd,就能看到每一週要做的事</t>
 <t tx="leo.20170315090154.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -348,7 +359,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315090154.7">## </t>
+<t tx="leo.20170315090154.7">## 2.改掉start的fossil路徑,用程式來找電腦的ip位置,再由組長創建該組的https架構,以便讓組員編輯</t>
 <t tx="leo.20170315090154.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -360,7 +371,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315090154.9">## 3</t>
+<t tx="leo.20170315090154.9">## 3.於課程網頁上的w3部分中從十部影片裡挑選兩部影片,做出中英文的字幕翻譯,並把字幕加入原影片中</t>
 <t tx="leo.20170315092026.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -391,7 +402,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315092026.3">##第三週
+<t tx="leo.20170315092026.3">##第四週
 
 ###1.
 
@@ -432,6 +443,20 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 						
 </t>
 <t tx="leo.20170315092026.9">## 3</t>
+<t tx="leo.20170315110355.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315110355.2">## 4.用solvespace繪製四連桿機構,尺寸為30,50,60公分
+
+##繪製完成把檔案轉成.stl檔,再導入v-rep做測試</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
