@@ -57,7 +57,7 @@
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170304161410.1" a="E"><vh>Week2</vh>
+<v t="leo.20170304161410.1"><vh>Week2</vh>
 <v t="leo.20170304161410.2" a="E"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
@@ -94,11 +94,11 @@
 <v t="leo.20170315090154.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315092026.1" a="E"><vh>Week4</vh>
+<v t="leo.20170315092026.1"><vh>Week4</vh>
 <v t="leo.20170315092026.2" a="E"><vh>Week4 content</vh>
 <v t="leo.20170315092026.3"><vh>Week4-1</vh></v>
 </v>
-<v t="leo.20170315092026.4" a="E"><vh>Week4-2</vh>
+<v t="leo.20170315092026.4"><vh>Week4-2</vh>
 <v t="leo.20170315092026.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170315092026.6" a="E"><vh>Week4-3</vh>
@@ -237,10 +237,10 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170304161410.11">## 使用 iframe 導入影片
 
-### 導入影片 template
+### 導入影片 第二週
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe src="https://player.vimeo.com/video/209055543" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209055543"&gt;2017CD 第二週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170304161410.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -678,9 +678,10 @@ make.start()</t>
 </t>
 <t tx="yen.20170120110024.17">## 使用 iframe 導入影片
 
-### 導入影片 template
+### 導入影片 第一週
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/209055449" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209055449"&gt;2017CD 第一週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
