@@ -111,6 +111,23 @@
 <v t="leo.20170315092026.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<v t="leo.20170328215422.1" a="E"><vh>Week5</vh>
+<v t="leo.20170328215422.2" a="E"><vh>Week5 content</vh>
+<v t="leo.20170328215422.3"><vh>Week5-1</vh></v>
+</v>
+<v t="leo.20170328215422.4" a="E"><vh>Week5-2</vh>
+<v t="leo.20170328215422.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170328215422.6" a="E"><vh>Week5-3</vh>
+<v t="leo.20170328215422.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170328215422.8" a="E"><vh>Week5-4</vh>
+<v t="leo.20170328215422.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170328215422.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170328215422.11"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -121,6 +138,7 @@
 <v t="leo.20170315090339.1"><vh>@edit 2017Week2.md</vh></v>
 <v t="leo.20170315091533.1"><vh>@edit 2017Week3.md</vh></v>
 <v t="leo.20170315092052.1"><vh>@edit 2017Week4.md</vh></v>
+<v t="leo.20170328215500.1"><vh>@edit 2017Week5.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -462,6 +480,75 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20170315110355.2">## 4.用solvespace或Onshape繪製四連桿機構,尺寸為30,50,60公分
 
 ##繪製完成把檔案轉成.stl檔,再導入v-rep做測試</t>
+<t tx="leo.20170328215422.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170328215422.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170328215422.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170328215422.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328215422.3">##第五週
+
+</t>
+<t tx="leo.20170328215422.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328215422.5">###1.</t>
+<t tx="leo.20170328215422.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328215422.7">## 2.</t>
+<t tx="leo.20170328215422.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328215422.9">## 3.</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
