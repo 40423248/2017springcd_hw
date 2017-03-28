@@ -312,7 +312,8 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/210430506" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210430506"&gt;2017CD 第三週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="leo.20170315090154.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -327,13 +328,13 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170315090154.3">##第三週
 
-###1.打網址進入https://mde2a1.kmol.info/看每週進度
+###1.打網址進入https://mde2a1.kmol.info/ 看每週進度
 
 ###2.改掉start的fossil路徑
 
 ###3.本週主要內容,至課程網頁瀏覽十部影片並挑兩部翻譯
 
-###4.用slovespace繪製四連桿機構並轉檔
+###4.用slovespace或Onshape繪製四連桿機構並轉檔
 
 </t>
 <t tx="leo.20170315090154.4">&lt;section data-markdown&gt;
@@ -458,7 +459,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315110355.2">## 4.用solvespace繪製四連桿機構,尺寸為30,50,60公分
+<t tx="leo.20170315110355.2">## 4.用solvespace或Onshape繪製四連桿機構,尺寸為30,50,60公分
 
 ##繪製完成把檔案轉成.stl檔,再導入v-rep做測試</t>
 <t tx="yen.20170108171605.1"></t>
