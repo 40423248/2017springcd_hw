@@ -94,11 +94,11 @@
 <v t="leo.20170315090154.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315092026.1"><vh>Week4</vh>
+<v t="leo.20170315092026.1" a="E"><vh>Week4</vh>
 <v t="leo.20170315092026.2" a="E"><vh>Week4 content</vh>
 <v t="leo.20170315092026.3"><vh>Week4-1</vh></v>
 </v>
-<v t="leo.20170315092026.4"><vh>Week4-2</vh>
+<v t="leo.20170315092026.4" a="E"><vh>Week4-2</vh>
 <v t="leo.20170315092026.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170315092026.6" a="E"><vh>Week4-3</vh>
@@ -107,11 +107,14 @@
 <v t="leo.20170315092026.8" a="E"><vh>Week4-4</vh>
 <v t="leo.20170315092026.9"><vh>引用程式碼</vh></v>
 </v>
+<v t="leo.20170411225536.1" a="E"><vh>Week4-5</vh>
+<v t="leo.20170411225536.2"><vh>引用程式碼</vh></v>
+</v>
 <v t="leo.20170315092026.10" a="E"><vh>導入影片</vh>
 <v t="leo.20170315092026.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170328215422.1"><vh>Week5</vh>
+<v t="leo.20170328215422.1" a="E"><vh>Week5</vh>
 <v t="leo.20170328215422.2" a="E"><vh>Week5 content</vh>
 <v t="leo.20170328215422.3"><vh>Week5-1</vh></v>
 </v>
@@ -346,7 +349,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170315090154.11">## 使用 iframe 導入影片
 
-### 導入影片 template
+### 導入影片 第三週
 
 &lt;iframe src="https://player.vimeo.com/video/210430506" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/210430506"&gt;2017CD 第三週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -426,9 +429,10 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170315092026.11">## 使用 iframe 導入影片
 
-### 導入影片 template
+### 導入影片 第四週
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/212761593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212761593"&gt;2017CD 第四週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="leo.20170315092026.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -443,9 +447,11 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170315092026.3">##第四週
 
-###1.介紹x-windows , vnc , remote desktop , 的功能
+###1.了解x-windows , vnc , remote desktop , 的功能
 
 ###2.組長建立fossil倉儲,編輯密碼,並把組員拉入
+
+###3.在Onshape或Slovespace中繪製單連桿機構並轉成stl檔案再導入V-REP做測試
 
 </t>
 <t tx="leo.20170315092026.4">&lt;section data-markdown&gt;
@@ -459,7 +465,14 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315092026.5">###1.</t>
+<t tx="leo.20170315092026.5">###1.了解x-windows , vnc , remote desktop , 的功能
+
+X Window系统是一種以點陣圖方式顯示的軟體視窗系統，在UNIX、類UNIX、以及OpenVMS等作業系統所一致適用的標準化軟體工具套件及顯示架構的運作協定。
+可透過軟體工具及架構協定來建立作業系統所用的圖形化使用者介面，此後則逐漸擴展適用到各形各色的其他作業系統上。現在幾乎所有的作業系統都能支援與使用X。
+
+
+
+</t>
 <t tx="leo.20170315092026.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -471,7 +484,8 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315092026.7">## 2.</t>
+<t tx="leo.20170315092026.7">### VNC為一種使用RFB協定的螢幕畫面分享及遠端操作軟體。藉由網路，可傳送鍵盤與滑鼠的動作及即時的螢幕畫面。
+VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線到某Linux的電腦，反之亦同。甚至在沒有安裝用戶端程式的電腦中，只要有支援JAVA的瀏覽器，也可使用。</t>
 <t tx="leo.20170315092026.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -483,7 +497,8 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315092026.9">## 3.</t>
+<t tx="leo.20170315092026.9">###遠端桌面協定是一個多通道的協定，讓使用者連上提供微軟終端機服務的電腦（伺服器端或稱「遠端電腦」）。大部份的Windows都有用戶端所需軟體。其他作業系統也有這些用戶端軟體，例如Linux、FreeBSD、Mac OS X。
+</t>
 <t tx="leo.20170315110355.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -530,6 +545,10 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170328215422.3">##第五週
 
+###1.如何在fossil筆記倉儲頁面顯示作業內容
+
+###2.把單連桿轉為.STL檔，再導入V-rep做動態模擬
+
 </t>
 <t tx="leo.20170328215422.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -542,7 +561,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170328215422.5">###1.</t>
+<t tx="leo.20170328215422.5">###1.如何在fossil筆記倉儲頁面顯示作業內容</t>
 <t tx="leo.20170328215422.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -554,7 +573,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170328215422.7">## 2.</t>
+<t tx="leo.20170328215422.7">## 2.把單連桿轉為.STL檔，再導入V-rep做動態模擬</t>
 <t tx="leo.20170328215422.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -636,6 +655,18 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 						
 </t>
 <t tx="leo.20170411163010.9">## 3.</t>
+<t tx="leo.20170411225536.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411225536.2">###.在Onshape或Slovespace中繪製單連桿機構並轉成stl檔案再導入V-REP做測試</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
