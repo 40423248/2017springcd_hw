@@ -597,7 +597,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170411163010.3">##第五週
+<t tx="leo.20170411163010.3">##第六週
 
 </t>
 <t tx="leo.20170411163010.4">&lt;section data-markdown&gt;
@@ -611,7 +611,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170411163010.5">###1.</t>
+<t tx="leo.20170411163010.5">##1.none</t>
 <t tx="leo.20170411163010.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
