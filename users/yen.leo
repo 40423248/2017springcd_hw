@@ -94,7 +94,7 @@
 <v t="leo.20170315090154.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315092026.1" a="E"><vh>Week4</vh>
+<v t="leo.20170315092026.1"><vh>Week4</vh>
 <v t="leo.20170315092026.2" a="E"><vh>Week4 content</vh>
 <v t="leo.20170315092026.3"><vh>Week4-1</vh></v>
 </v>
@@ -114,7 +114,7 @@
 <v t="leo.20170315092026.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170328215422.1" a="E"><vh>Week5</vh>
+<v t="leo.20170328215422.1"><vh>Week5</vh>
 <v t="leo.20170328215422.2" a="E"><vh>Week5 content</vh>
 <v t="leo.20170328215422.3"><vh>Week5-1</vh></v>
 </v>
@@ -131,7 +131,7 @@
 <v t="leo.20170328215422.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170411163010.1" a="E"><vh>Week6</vh>
+<v t="leo.20170411163010.1"><vh>Week6</vh>
 <v t="leo.20170411163010.2" a="E"><vh>Week6 content</vh>
 <v t="leo.20170411163010.3"><vh>Week6-1</vh></v>
 </v>
@@ -148,6 +148,23 @@
 <v t="leo.20170411163010.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<v t="leo.20170411231331.1" a="E"><vh>Week7</vh>
+<v t="leo.20170411231331.2" a="E"><vh>Week7 content</vh>
+<v t="leo.20170411231331.3"><vh>Week7-1</vh></v>
+</v>
+<v t="leo.20170411231331.4" a="E"><vh>Week7-2</vh>
+<v t="leo.20170411231331.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170411231331.6" a="E"><vh>Week7-3</vh>
+<v t="leo.20170411231331.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170411231331.8" a="E"><vh>Week7-4</vh>
+<v t="leo.20170411231331.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170411231331.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170411231331.11"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -160,6 +177,7 @@
 <v t="leo.20170315092052.1"><vh>@edit 2017Week4.md</vh></v>
 <v t="leo.20170328215500.1"><vh>@edit 2017Week5.md</vh></v>
 <v t="leo.20170411163046.1"><vh>@edit 2017Week6.md</vh></v>
+<v t="leo.20170411231408.1"><vh>@edit 2017Week7.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -667,6 +685,75 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 						
 </t>
 <t tx="leo.20170411225536.2">###.在Onshape或Slovespace中繪製單連桿機構並轉成stl檔案再導入V-REP做測試</t>
+<t tx="leo.20170411231331.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170411231331.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170411231331.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170411231331.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411231331.3">##第六週
+
+</t>
+<t tx="leo.20170411231331.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411231331.5">##1.none</t>
+<t tx="leo.20170411231331.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411231331.7">## 2.</t>
+<t tx="leo.20170411231331.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411231331.9">## 3.</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
