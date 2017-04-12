@@ -74,7 +74,7 @@
 <v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315090154.1"><vh>Week3</vh>
+<v t="leo.20170315090154.1" a="E"><vh>Week3</vh>
 <v t="leo.20170315090154.2" a="E"><vh>Week3 content</vh>
 <v t="leo.20170315090154.3"><vh>Week3-1</vh></v>
 </v>
@@ -87,7 +87,13 @@
 <v t="leo.20170315090154.8" a="E"><vh>Week3-4</vh>
 <v t="leo.20170315090154.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315110355.1" a="E"><vh>Week3-5</vh>
+<v t="leo.20170412101850.1" a="E"><vh>Week3-5</vh>
+<v t="leo.20170412101850.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170412101853.1" a="E"><vh>Week3-6</vh>
+<v t="leo.20170412101853.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170315110355.1" a="E"><vh>Week3-7</vh>
 <v t="leo.20170315110355.2"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170315090154.10" a="E"><vh>導入影片</vh>
@@ -114,7 +120,7 @@
 <v t="leo.20170315092026.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170328215422.1" a="E"><vh>Week5</vh>
+<v t="leo.20170328215422.1"><vh>Week5</vh>
 <v t="leo.20170328215422.2" a="E"><vh>Week5 content</vh>
 <v t="leo.20170328215422.3"><vh>Week5-1</vh></v>
 </v>
@@ -177,7 +183,7 @@
 <v t="leo.20170411231331.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170411235138.1" a="E"><vh>Week8</vh>
+<v t="leo.20170411235138.1"><vh>Week8</vh>
 <v t="leo.20170411235138.2" a="E"><vh>Week8 content</vh>
 <v t="leo.20170411235138.3"><vh>Week8-1</vh></v>
 </v>
@@ -461,7 +467,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170315090154.9">## 3.於課程網頁上的w3部分中從十部影片裡挑選兩部影片,做出中英文的字幕翻譯,並把字幕加入原影片中</t>
+<t tx="leo.20170315090154.9">## 3.於課程網頁上的w3部分中從十部影片裡挑選兩部影片,做出中英文的字幕翻譯,並把字幕加入原影片中
+
+##40423222上傳 40423245嵌入字幕 40423248翻譯 </t>
 <t tx="leo.20170315092026.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -842,7 +850,9 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 						
 </t>
-<t tx="leo.20170411235138.3">##第六週
+<t tx="leo.20170411235138.3">##第八週
+
+期中自評
 
 </t>
 <t tx="leo.20170411235138.4">&lt;section data-markdown&gt;
@@ -923,6 +933,32 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 <t tx="leo.20170412094632.2">&lt;img src="data/Week4/vrep 7.png" width="600" /&gt;
 
 &lt;img src="data/Week4/vrep 8.png" width="600" /&gt;</t>
+<t tx="leo.20170412101850.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412101850.2">&lt;iframe src="https://player.vimeo.com/video/208321328" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208321328"&gt;hyperworks 14 4中英字幕&lt;/a&gt; from &lt;a href="https://vimeo.com/user57795652"&gt;40423222&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170412101853.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412101853.2">&lt;iframe src="https://player.vimeo.com/video/208321328" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208321328"&gt;hyperworks 14 4中英字幕&lt;/a&gt; from &lt;a href="https://vimeo.com/user57795652"&gt;40423222&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
