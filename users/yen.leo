@@ -57,7 +57,7 @@
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170304161410.1"><vh>Week2</vh>
+<v t="leo.20170304161410.1" a="E"><vh>Week2</vh>
 <v t="leo.20170304161410.2" a="E"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
@@ -70,11 +70,14 @@
 <v t="leo.20170304161410.8" a="E"><vh>Week2-4</vh>
 <v t="leo.20170304161410.9"><vh>引用程式碼</vh></v>
 </v>
+<v t="leo.20170412115648.1" a="E"><vh>Week2-5</vh>
+<v t="leo.20170412115648.2"><vh>引用程式碼</vh></v>
+</v>
 <v t="leo.20170304161410.10" a="E"><vh>導入影片</vh>
 <v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315090154.1" a="E"><vh>Week3</vh>
+<v t="leo.20170315090154.1"><vh>Week3</vh>
 <v t="leo.20170315090154.2" a="E"><vh>Week3 content</vh>
 <v t="leo.20170315090154.3"><vh>Week3-1</vh></v>
 </v>
@@ -387,7 +390,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170304161410.9">## 3</t>
+<t tx="leo.20170304161410.9">&lt;img src="data/Week2/link30.png" width="500" /&gt;
+
+&lt;img src="data/Week2/link50.png" width="500" /&gt;</t>
 <t tx="leo.20170315090154.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -959,6 +964,18 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 </t>
 <t tx="leo.20170412101853.2">&lt;iframe src="https://player.vimeo.com/video/208321328" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/208321328"&gt;hyperworks 14 4中英字幕&lt;/a&gt; from &lt;a href="https://vimeo.com/user57795652"&gt;40423222&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170412115648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115648.2">&lt;img src="data/Week2/link60.png" width="500" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
