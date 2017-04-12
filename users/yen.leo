@@ -114,7 +114,7 @@
 <v t="leo.20170315092026.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170328215422.1"><vh>Week5</vh>
+<v t="leo.20170328215422.1" a="E"><vh>Week5</vh>
 <v t="leo.20170328215422.2" a="E"><vh>Week5 content</vh>
 <v t="leo.20170328215422.3"><vh>Week5-1</vh></v>
 </v>
@@ -129,6 +129,15 @@
 </v>
 <v t="leo.20170411232716.1" a="E"><vh>Week5-5</vh>
 <v t="leo.20170411232716.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170412094138.1" a="E"><vh>Week5-6</vh>
+<v t="leo.20170412094138.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170412094610.1" a="E"><vh>Week5-7</vh>
+<v t="leo.20170412094610.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170412094632.1" a="E"><vh>Week5-8</vh>
+<v t="leo.20170412094632.2"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170328215422.10" a="E"><vh>導入影片</vh>
 <v t="leo.20170328215422.11"><vh>iframe 導入影片</vh></v>
@@ -616,9 +625,11 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 						
 </t>
-<t tx="leo.20170328215422.7">###2.把單連桿轉為.STL檔，再導入V-rep做動態模擬
+<t tx="leo.20170328215422.7">####2.把單連桿轉為.STL檔，再導入V-rep做動態模擬
 
-&lt;img src="./../.../Week4/vrep 1.png" width="800" /&gt;
+&lt;img src="data/Week4/bottom.png" width="500" /&gt;
+
+&lt;img src="data/Week4/bar.png" width="500" /&gt;
 
 </t>
 <t tx="leo.20170328215422.8">&lt;section data-markdown&gt;
@@ -633,6 +644,8 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 						
 </t>
 <t tx="leo.20170328215422.9">## 
+
+&lt;img src="data/Week4/link.png" width="500" /&gt;
 
 </t>
 <t tx="leo.20170411163010.1">&lt;section&gt;
@@ -796,9 +809,9 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 						
 </t>
-<t tx="leo.20170411232716.2">## 
+<t tx="leo.20170411232716.2">&lt;img src="data/Week4/vrep 1.png" width="600" /&gt;
 
-&lt;img src="./../.../W4/link.png" width="800" /&gt;</t>
+&lt;img src="data/Week4/vrep 2.png" width="600" /&gt;</t>
 <t tx="leo.20170411235138.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -868,6 +881,48 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 						
 </t>
 <t tx="leo.20170411235138.9">## 3.</t>
+<t tx="leo.20170412094138.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412094138.2">&lt;img src="data/Week4/vrep 3.png" width="600" /&gt;
+
+&lt;img src="data/Week4/vrep 4.png" width="600" /&gt;</t>
+<t tx="leo.20170412094610.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412094610.2">&lt;img src="data/Week4/vrep 5.png" width="600" /&gt;
+
+&lt;img src="data/Week4/vrep 6.png" width="600" /&gt;</t>
+<t tx="leo.20170412094632.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412094632.2">&lt;img src="data/Week4/vrep 7.png" width="600" /&gt;
+
+&lt;img src="data/Week4/vrep 8.png" width="600" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
