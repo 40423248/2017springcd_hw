@@ -57,7 +57,7 @@
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170304161410.1" a="E"><vh>Week2</vh>
+<v t="leo.20170304161410.1"><vh>Week2</vh>
 <v t="leo.20170304161410.2" a="E"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
@@ -203,6 +203,41 @@
 <v t="leo.20170411235138.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<v t="leo.20170419092650.1" a="E"><vh>Week9</vh>
+<v t="leo.20170419092650.2" a="E"><vh>Week9 content</vh>
+<v t="leo.20170419092650.3"><vh>Week9-1</vh></v>
+</v>
+<v t="leo.20170419092650.4" a="E"><vh>Week9-2</vh>
+<v t="leo.20170419092650.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419092650.6" a="E"><vh>Week9-3</vh>
+<v t="leo.20170419092650.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419092650.8" a="E"><vh>Week9-4</vh>
+<v t="leo.20170419092650.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419094610.1" a="E"><vh>Week9-5</vh>
+<v t="leo.20170419094610.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419095524.1" a="E"><vh>Week9-6</vh>
+<v t="leo.20170419095524.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419110809.1" a="E"><vh>Week9-7</vh>
+<v t="leo.20170419110809.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419110948.1" a="E"><vh>Week9-8</vh>
+<v t="leo.20170419110948.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419114348.1" a="E"><vh>Week9-9</vh>
+<v t="leo.20170419114348.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170419092650.10" a="E"><vh>導入影片1</vh>
+<v t="leo.20170419092650.11"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20170419111018.1" a="E"><vh>導入影片2</vh>
+<v t="leo.20170419111018.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -217,6 +252,7 @@
 <v t="leo.20170411163046.1"><vh>@edit 2017Week6.md</vh></v>
 <v t="leo.20170411231408.1"><vh>@edit 2017Week7.md</vh></v>
 <v t="leo.20170411235204.1"><vh>@edit 2017Week8.md</vh></v>
+<v t="leo.20170419092718.1"><vh>@edit 2017Week9.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -976,6 +1012,172 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 						
 </t>
 <t tx="leo.20170412115648.2">&lt;img src="data/Week2/link60.png" width="500" /&gt;</t>
+<t tx="leo.20170419092650.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170419092650.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419092650.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/213787448" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213787448"&gt;2017CD 第九週-期中作業-四連桿機構協同 Trace Point 查驗&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170419092650.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419092650.3">##第九週
+###期中協同查驗與自評
+
+
+</t>
+<t tx="leo.20170419092650.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419092650.5">##1.Fossil Server 實習查驗
+
+由組員或是組長在教室中用電腦建立fossil server,設定好使用者及密碼後再來是組員個別登錄上去,在wiki建立期中心得報告的格式,打入期中的心得</t>
+<t tx="leo.20170419092650.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419092650.7">&lt;img src="data/Week4/vrep 1.png" width="600" /&gt;</t>
+<t tx="leo.20170419092650.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419092650.9">## 2.四連桿機構協同 Trace Point 查驗
+
+各組員用solvespace畫出四連桿,追蹤 T 點軌跡座標並另外檔 (請以 midterm1.csv, midterm2.csv .... 依序命名) 
+
+各組組員請依學號遞增排序, 排序第1者負責分析 Length=50 的 T 點軌跡圖, 其餘組員則依序將 Length -5的方式來縮減上三角的尺寸</t>
+<t tx="leo.20170419094610.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419094610.2">&lt;img src="data/Week9/fourbar-1.png" width="800" /&gt;
+
+
+
+
+</t>
+<t tx="leo.20170419095524.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419095524.2">&lt;img src="data/Week9/fourbar-2.png" width="800" /&gt;
+
+</t>
+<t tx="leo.20170419110809.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419110809.2">##3.Fourbar Walker OnShape 零件協同繪圖與組立查驗
+
+請各組依照基本尺寸規劃, 以協同方式在 OnShape 環境中完成四連桿四足行走機構, 並分別拍攝協同規劃與實際操作影片, 將影片送到 1) Youtube 2) Vimeo 以及各組的 Fossil Server.
+
+</t>
+<t tx="leo.20170419110948.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419110948.2">&lt;img src="./../data/Week9/Fourbar Walker.png" width="600" /&gt;</t>
+<t tx="leo.20170419111018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419111018.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/213787524" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213787524"&gt;2017CD 第九週-期中作業-Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170419114348.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419114348.2">###心得
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
