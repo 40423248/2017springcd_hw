@@ -1148,7 +1148,7 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 						
 </t>
-<t tx="leo.20170419110948.2">&lt;img src="./../data/Week9/Fourbar Walker.png" width="600" /&gt;</t>
+<t tx="leo.20170419110948.2">&lt;img src"data/Week9/Fourbar Walker.png" width="600" /&gt;</t>
 <t tx="leo.20170419111018.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1177,7 +1177,8 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 						
 </t>
 <t tx="leo.20170419114348.2">###心得
-</t>
+
+現在學到期中的部分,slovespace和Onshape變得比較熟練,V-REP的主從關係還是不太熟,最主要不懂的還是fossil server,得再去找人弄懂,大概給自己65分</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
