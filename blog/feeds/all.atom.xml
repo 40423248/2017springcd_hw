@@ -37,10 +37,30 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212761593"&gt;2017CD 第四週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="brython"></category><category term="w4"></category></entry><entry><title>2017CD第五週</title><link href="./2017springCD-Week5.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week5.html</id><summary type="html">&lt;p&gt;第五週上課內容&lt;/p&gt;
 &lt;h3&gt;1.如何在fossil筆記倉儲頁面顯示作業內容&lt;/h3&gt;
-&lt;h3&gt;2.把單連桿轉為.STL檔，再導入V-rep做動態模擬&lt;/h3&gt;</summary><category term="brython"></category><category term="w5"></category></entry><entry><title>2017CD第六週</title><link href="./2017springCD-Week6.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week6.html</id><summary type="html">&lt;p&gt;第六週上課內容
-none&lt;/p&gt;</summary><category term="brython"></category><category term="w6"></category></entry><entry><title>2017CD第七週</title><link href="./2017springCD-Week7.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week7.html</id><summary type="html">&lt;p&gt;第七週上課內容
+&lt;h3&gt;在WIKI裡新增一個與倉儲筆記同名稱的檔案，就會在FOSSIL筆記倉儲主頁顯示&lt;/h3&gt;
+&lt;h3&gt;建立時WIKI有三種格式，WIKI、MARKDOWN及HTML，安全性的排序:WIKI&amp;gt;MARKDOWN&amp;gt;HTML&lt;/h3&gt;
+&lt;h3&gt;2.把單連桿轉為.STL檔，再導入V-rep做動態模擬&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/bottom.png" width="500" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/bar.png" width="500" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/link.png" width="500" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 1.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 2.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 3.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 4.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 5.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 6.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 7.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week4/vrep 8.png" width="600" /&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w5"></category></entry><entry><title>2017CD第六週</title><link href="./2017springCD-Week6.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week6.html</id><summary type="html">&lt;p&gt;第六週上課內容&lt;/p&gt;
+&lt;h2&gt;1.用Onshape裡面的變數限制條件來繪製四連桿，並導入V-REP做動&lt;/h2&gt;
+&lt;p&gt;&lt;img src="./../data/Week6/OS1.png" width="500" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week6/OS2.png" width="500" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week6/vrep.png" width="500" /&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/214692737" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/214692737"&gt;2017CD 第六週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="brython"></category><category term="w6"></category></entry><entry><title>2017CD第七週</title><link href="./2017springCD-Week7.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week7.html</id><summary type="html">&lt;p&gt;第七週上課內容
 none&lt;/p&gt;</summary><category term="brython"></category><category term="w7"></category></entry><entry><title>2017CD第八週</title><link href="./2017springCD-Week8.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week8.html</id><summary type="html">&lt;p&gt;第八週上課內容
-none&lt;/p&gt;</summary><category term="brython"></category><category term="w8"></category></entry><entry><title>2017CD第九週</title><link href="./2017springCD-Week9.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week9.html</id><summary type="html">&lt;p&gt;第九週上課內容&lt;/p&gt;
+期中自評
+給自己打期中分數&lt;/p&gt;</summary><category term="brython"></category><category term="w8"></category></entry><entry><title>2017CD第九週</title><link href="./2017springCD-Week9.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week9.html</id><summary type="html">&lt;p&gt;第九週上課內容&lt;/p&gt;
 &lt;h3&gt;期中協同查驗與自評&lt;/h3&gt;
 &lt;h2&gt;1.Fossil Server 實習查驗&lt;/h2&gt;
 &lt;p&gt;由組員或是組長在教室中用電腦建立fossil server,設定好使用者及密碼後再來是組員個別登錄上去,在wiki建立期中心得報告的格式,打入期中的心得&lt;/p&gt;

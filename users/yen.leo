@@ -203,7 +203,7 @@
 <v t="leo.20170411235138.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170419092650.1" a="E"><vh>Week9</vh>
+<v t="leo.20170419092650.1"><vh>Week9</vh>
 <v t="leo.20170419092650.2" a="E"><vh>Week9 content</vh>
 <v t="leo.20170419092650.3"><vh>Week9-1</vh></v>
 </v>
@@ -714,8 +714,8 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe src="https://player.vimeo.com/video/214692737" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214692737"&gt;2017CD 第六週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170411163010.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -728,7 +728,7 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 						
 </t>
 <t tx="leo.20170411163010.3">##第六週
-
+##1.用Onshape裡面的變數限制條件來繪製四連桿，並導入V-REP做動
 </t>
 <t tx="leo.20170411163010.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -741,7 +741,7 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 						
 </t>
-<t tx="leo.20170411163010.5">##1.none</t>
+<t tx="leo.20170411163010.5">&lt;img src="data/Week6/OS1.png" width="800" /&gt;</t>
 <t tx="leo.20170411163010.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -753,7 +753,7 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 						
 </t>
-<t tx="leo.20170411163010.7">## 2.</t>
+<t tx="leo.20170411163010.7">&lt;img src="data/Week6/OS2.png" width="800" /&gt;</t>
 <t tx="leo.20170411163010.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -765,7 +765,7 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 
 						
 </t>
-<t tx="leo.20170411163010.9">## 3.</t>
+<t tx="leo.20170411163010.9">&lt;img src="data/Week6/vrep.png" width="800" /&gt;</t>
 <t tx="leo.20170411225536.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
