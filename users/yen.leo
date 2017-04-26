@@ -1494,6 +1494,8 @@ make.start()</t>
 
 ####學員 40423248 課程簡報
 
+[網誌連結](https://40423248.github.io/2017springcd_hw/blog/index.html)
+
 &lt;small&gt;
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
