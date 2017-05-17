@@ -18,11 +18,11 @@
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
+<v t="yen.20170215103217.1"><vh>編輯 template</vh>
 <v t="yen.20170215103228.1" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
@@ -258,7 +258,7 @@
 <v t="leo.20170517091052.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170517091228.1" a="E"><vh>Week11</vh>
+<v t="leo.20170517091228.1"><vh>Week11</vh>
 <v t="leo.20170517091228.2" a="E"><vh>Week11 content</vh>
 <v t="leo.20170517091228.3"><vh>Week11-1</vh></v>
 </v>
@@ -292,8 +292,48 @@
 <v t="leo.20170517095600.1" a="E"><vh>Week11-11</vh>
 <v t="leo.20170517095600.2"><vh>引用程式碼</vh></v>
 </v>
+<v t="leo.20170517102725.1" a="E"><vh>Week11-12</vh>
+<v t="leo.20170517102725.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170517102728.1" a="E"><vh>Week11-13</vh>
+<v t="leo.20170517102728.2"><vh>引用程式碼</vh></v>
+</v>
 <v t="leo.20170517091228.10" a="E"><vh>導入影片</vh>
 <v t="leo.20170517091228.11"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20170517103152.1"><vh>Week12</vh>
+<v t="leo.20170517103152.2" a="E"><vh>Week12 content</vh>
+<v t="leo.20170517103152.3"><vh>Week12-1</vh></v>
+</v>
+<v t="leo.20170517103152.4" a="E"><vh>Week12-2</vh>
+<v t="leo.20170517103152.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170517103152.6" a="E"><vh>Week12-3</vh>
+<v t="leo.20170517103152.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170517103152.8" a="E"><vh>Week12-4</vh>
+<v t="leo.20170517103152.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170517103152.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170517103152.11"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20170517103219.1" a="E"><vh>Week13</vh>
+<v t="leo.20170517103219.2" a="E"><vh>Week13 content</vh>
+<v t="leo.20170517103219.3"><vh>Week13-1</vh></v>
+</v>
+<v t="leo.20170517103219.4" a="E"><vh>Week13-2</vh>
+<v t="leo.20170517103219.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170517103219.6" a="E"><vh>Week13-3</vh>
+<v t="leo.20170517103219.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170517103219.8" a="E"><vh>Week13-4</vh>
+<v t="leo.20170517103219.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170517103219.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170517103219.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -313,6 +353,8 @@
 <v t="leo.20170419092718.1"><vh>@edit 2017Week9.md</vh></v>
 <v t="leo.20170517091429.1"><vh>@edit 2017Week10.md</vh></v>
 <v t="leo.20170517091501.1"><vh>@edit 2017Week11.md</vh></v>
+<v t="leo.20170517103311.1"><vh>@edit 2017Week12.md</vh></v>
+<v t="leo.20170517103321.1"><vh>@edit 2017Week13.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -1523,6 +1565,172 @@ Onshape也支援多重螢幕顯示,可以把網頁標籤(視窗)移到其他螢�
 能夠省去手動一個一個點你想要的檔案的時間,可以點個兩三下就導入很多的檔案,當你想要從其他的CAD系統中導入檔案時就會用到這功能,要導入檔案時按左上方的箭頭圖案,
 或是左下方的+圖案,點選導入後就可以瀏覽你想要導入的檔案,這時按著Shift點第一個檔案再點最後一個檔案,全部的檔案都會被選取,就可以同時導入多個檔案
 </t>
+<t tx="leo.20170517102725.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517102725.2">#####2.閱讀寫心得:
+#####Designing Linkages in Context:
+https://www.onshape.com/cad-blog/designing-linkages-in-context </t>
+<t tx="leo.20170517102728.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517102728.2">###2.閱讀寫心得:
+###FeatureScript:
+https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it</t>
+<t tx="leo.20170517103152.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170517103152.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170517103152.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170517103152.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103152.3">##第十二週
+
+</t>
+<t tx="leo.20170517103152.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103152.5">##1.none</t>
+<t tx="leo.20170517103152.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103152.7">## 2.</t>
+<t tx="leo.20170517103152.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103152.9">## 3.</t>
+<t tx="leo.20170517103219.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170517103219.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170517103219.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170517103219.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103219.3">##第十三週
+
+</t>
+<t tx="leo.20170517103219.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103219.5">##1.none</t>
+<t tx="leo.20170517103219.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103219.7">## 2.</t>
+<t tx="leo.20170517103219.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170517103219.9">## 3.</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
