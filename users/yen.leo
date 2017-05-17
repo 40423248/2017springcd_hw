@@ -258,7 +258,7 @@
 <v t="leo.20170517091052.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170517091228.1"><vh>Week11</vh>
+<v t="leo.20170517091228.1" a="E"><vh>Week11</vh>
 <v t="leo.20170517091228.2" a="E"><vh>Week11 content</vh>
 <v t="leo.20170517091228.3"><vh>Week11-1</vh></v>
 </v>
@@ -1335,6 +1335,16 @@ VNC與作業系統無關，因此可跨平台使用，例如可用Windows連線�
 </t>
 <t tx="leo.20170517091228.3">##第十一週
 
+###1.小組協同閱讀兩本電子書翻譯並寫下心得:
+###An Introduction to Agile Product Design – by Onshape.pdf (The Move To Agile Design.pdf)
+###Onshape's Greatest Tech Tips– Volume 1.pdf
+
+###2.閱讀寫心得:
+###Designing Linkages in Context:
+https://www.onshape.com/cad-blog/designing-linkages-in-context 
+
+###FeatureScript:
+https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 </t>
 <t tx="leo.20170517091228.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
