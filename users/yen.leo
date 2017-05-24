@@ -302,7 +302,7 @@
 <v t="leo.20170517091228.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170517103152.1" a="E"><vh>Week12</vh>
+<v t="leo.20170517103152.1"><vh>Week12</vh>
 <v t="leo.20170517103152.2" a="E"><vh>Week12 content</vh>
 <v t="leo.20170517103152.3"><vh>Week12-1</vh></v>
 </v>
@@ -336,7 +336,7 @@
 <v t="leo.20170517103219.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170524225239.1"><vh>Week14</vh>
+<v t="leo.20170524225239.1" a="E"><vh>Week14</vh>
 <v t="leo.20170524225239.2" a="E"><vh>Week14 content</vh>
 <v t="leo.20170524225239.3"><vh>Week14-1</vh></v>
 </v>
@@ -1643,7 +1643,7 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 </t>
 <t tx="leo.20170517103152.3">##第十二週
 
-利用漸開線原理, 以 Brython 繪製單一正齒輪廓</t>
+使用漸開線原理, 用 Brython來繪製單一個正齒輪的輪廓</t>
 <t tx="leo.20170517103152.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1780,8 +1780,10 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 						
 </t>
 <t tx="leo.20170524225239.3">##第十四週
+架設ubuntu伺服器
 
-</t>
+###Ubuntu簡介:
+###Ubuntu是基於Debian的Linux發行版。Debian的版本更新時間不固定，但Ubuntu會固定在每年的4月和10月釋出新版(每半年一新版)，版本號碼就是「年份.月份」，例如在2014年4月發佈的版本，號碼就是14.04；在2009年10月發佈的版本，號碼就是9.10。通常每隔兩年會釋出一個更新支援期長達2年以上的LTS(Long Term Support)版本，例如10.04、12.04、14.04、16.04就是LTS版，LTS版本因為支援期長，有很多時間修復BUG，因此愈後期的LTS版，執行起來會更穩定，如果有架設伺服器的需求，安裝LTS版本會是較好的選擇，尤其又以安裝專門用來架設伺服器的Ubuntu Server最好。</t>
 <t tx="leo.20170524225239.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
