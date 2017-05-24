@@ -319,7 +319,7 @@
 <v t="leo.20170517103152.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170517103219.1" a="E"><vh>Week13</vh>
+<v t="leo.20170517103219.1"><vh>Week13</vh>
 <v t="leo.20170517103219.2" a="E"><vh>Week13 content</vh>
 <v t="leo.20170517103219.3"><vh>Week13-1</vh></v>
 </v>
@@ -334,6 +334,23 @@
 </v>
 <v t="leo.20170517103219.10" a="E"><vh>導入影片</vh>
 <v t="leo.20170517103219.11"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20170524225239.1" a="E"><vh>Week14</vh>
+<v t="leo.20170524225239.2" a="E"><vh>Week14 content</vh>
+<v t="leo.20170524225239.3"><vh>Week14-1</vh></v>
+</v>
+<v t="leo.20170524225239.4" a="E"><vh>Week14-2</vh>
+<v t="leo.20170524225239.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170524225239.6" a="E"><vh>Week14-3</vh>
+<v t="leo.20170524225239.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170524225239.8" a="E"><vh>Week14-4</vh>
+<v t="leo.20170524225239.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170524225239.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170524225239.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -355,6 +372,7 @@
 <v t="leo.20170517091501.1"><vh>@edit 2017Week11.md</vh></v>
 <v t="leo.20170517103311.1"><vh>@edit 2017Week12.md</vh></v>
 <v t="leo.20170517103321.1"><vh>@edit 2017Week13.md</vh></v>
+<v t="leo.20170524225324.1"><vh>@edit 2017Week14.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -1731,6 +1749,75 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 						
 </t>
 <t tx="leo.20170517103219.9">## 3.</t>
+<t tx="leo.20170524225239.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170524225239.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170524225239.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170524225239.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170524225239.3">##第十四週
+
+</t>
+<t tx="leo.20170524225239.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170524225239.5">##1.none</t>
+<t tx="leo.20170524225239.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170524225239.7">## 2.</t>
+<t tx="leo.20170524225239.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170524225239.9">## 3.</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
