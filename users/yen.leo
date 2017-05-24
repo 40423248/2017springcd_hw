@@ -302,7 +302,7 @@
 <v t="leo.20170517091228.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170517103152.1"><vh>Week12</vh>
+<v t="leo.20170517103152.1" a="E"><vh>Week12</vh>
 <v t="leo.20170517103152.2" a="E"><vh>Week12 content</vh>
 <v t="leo.20170517103152.3"><vh>Week12-1</vh></v>
 </v>
@@ -336,7 +336,7 @@
 <v t="leo.20170517103219.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170524225239.1" a="E"><vh>Week14</vh>
+<v t="leo.20170524225239.1"><vh>Week14</vh>
 <v t="leo.20170524225239.2" a="E"><vh>Week14 content</vh>
 <v t="leo.20170524225239.3"><vh>Week14-1</vh></v>
 </v>
@@ -1643,7 +1643,7 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 </t>
 <t tx="leo.20170517103152.3">##第十二週
 
-</t>
+利用漸開線原理, 以 Brython 繪製單一正齒輪廓</t>
 <t tx="leo.20170517103152.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
