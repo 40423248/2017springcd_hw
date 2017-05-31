@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
+<v t="yen.20170108171605.1"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -23,17 +23,17 @@
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
 <v t="yen.20170215103217.1"><vh>編輯 template</vh>
-<v t="yen.20170215103228.1" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170215103228.1"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2" a="E"><vh>html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4" a="E"><vh>body</vh>
-<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.4"><vh>body</vh>
+<v t="yen.20170120110024.5"><vh>reveal div</vh>
+<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 <v t="leo.20170304145953.1"><vh>2017CD Week1</vh></v>
 </v>
@@ -41,332 +41,332 @@
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="yen.20170120110024.11"><vh>Week1</vh>
-<v t="yen.20170120110024.12" a="E"><vh>Week1 content</vh>
+<v t="yen.20170120110024.12"><vh>Week1 content</vh>
 <v t="yen.20170120110024.13"><vh>Week1-1</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>Week1-2</vh>
+<v t="yen.20170120110024.14"><vh>Week1-2</vh>
 <v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170304152605.1" a="E"><vh>Week1-3</vh>
+<v t="leo.20170304152605.1"><vh>Week1-3</vh>
 <v t="leo.20170304152605.2"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170304155027.1"><vh>Week1-4</vh>
 <v t="leo.20170304155027.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
+<v t="yen.20170120110024.16"><vh>導入影片</vh>
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170304161410.1"><vh>Week2</vh>
-<v t="leo.20170304161410.2" a="E"><vh>Week2 content</vh>
+<v t="leo.20170304161410.2"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
-<v t="leo.20170304161410.4" a="E"><vh>Week2-2</vh>
+<v t="leo.20170304161410.4"><vh>Week2-2</vh>
 <v t="leo.20170304161410.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170304161410.6" a="E"><vh>Week2-3</vh>
+<v t="leo.20170304161410.6"><vh>Week2-3</vh>
 <v t="leo.20170304161410.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170304161410.8" a="E"><vh>Week2-4</vh>
+<v t="leo.20170304161410.8"><vh>Week2-4</vh>
 <v t="leo.20170304161410.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170412115648.1" a="E"><vh>Week2-5</vh>
+<v t="leo.20170412115648.1"><vh>Week2-5</vh>
 <v t="leo.20170412115648.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170304161410.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170304161410.10"><vh>導入影片</vh>
 <v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170315090154.1"><vh>Week3</vh>
-<v t="leo.20170315090154.2" a="E"><vh>Week3 content</vh>
+<v t="leo.20170315090154.2"><vh>Week3 content</vh>
 <v t="leo.20170315090154.3"><vh>Week3-1</vh></v>
 </v>
-<v t="leo.20170315090154.4" a="E"><vh>Week3-2</vh>
+<v t="leo.20170315090154.4"><vh>Week3-2</vh>
 <v t="leo.20170315090154.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315090154.6" a="E"><vh>Week3-3</vh>
+<v t="leo.20170315090154.6"><vh>Week3-3</vh>
 <v t="leo.20170315090154.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315090154.8" a="E"><vh>Week3-4</vh>
+<v t="leo.20170315090154.8"><vh>Week3-4</vh>
 <v t="leo.20170315090154.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170412101850.1" a="E"><vh>Week3-5</vh>
+<v t="leo.20170412101850.1"><vh>Week3-5</vh>
 <v t="leo.20170412101850.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170412101853.1" a="E"><vh>Week3-6</vh>
+<v t="leo.20170412101853.1"><vh>Week3-6</vh>
 <v t="leo.20170412101853.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315110355.1" a="E"><vh>Week3-7</vh>
+<v t="leo.20170315110355.1"><vh>Week3-7</vh>
 <v t="leo.20170315110355.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315090154.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170315090154.10"><vh>導入影片</vh>
 <v t="leo.20170315090154.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170315092026.1"><vh>Week4</vh>
-<v t="leo.20170315092026.2" a="E"><vh>Week4 content</vh>
+<v t="leo.20170315092026.2"><vh>Week4 content</vh>
 <v t="leo.20170315092026.3"><vh>Week4-1</vh></v>
 </v>
-<v t="leo.20170315092026.4" a="E"><vh>Week4-2</vh>
+<v t="leo.20170315092026.4"><vh>Week4-2</vh>
 <v t="leo.20170315092026.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315092026.6" a="E"><vh>Week4-3</vh>
+<v t="leo.20170315092026.6"><vh>Week4-3</vh>
 <v t="leo.20170315092026.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315092026.8" a="E"><vh>Week4-4</vh>
+<v t="leo.20170315092026.8"><vh>Week4-4</vh>
 <v t="leo.20170315092026.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411225536.1" a="E"><vh>Week4-5</vh>
+<v t="leo.20170411225536.1"><vh>Week4-5</vh>
 <v t="leo.20170411225536.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170315092026.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170315092026.10"><vh>導入影片</vh>
 <v t="leo.20170315092026.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170328215422.1"><vh>Week5</vh>
-<v t="leo.20170328215422.2" a="E"><vh>Week5 content</vh>
+<v t="leo.20170328215422.2"><vh>Week5 content</vh>
 <v t="leo.20170328215422.3"><vh>Week5-1</vh></v>
 </v>
-<v t="leo.20170328215422.4" a="E"><vh>Week5-2</vh>
+<v t="leo.20170328215422.4"><vh>Week5-2</vh>
 <v t="leo.20170328215422.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170328215422.6" a="E"><vh>Week5-3</vh>
+<v t="leo.20170328215422.6"><vh>Week5-3</vh>
 <v t="leo.20170328215422.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170328215422.8" a="E"><vh>Week5-4</vh>
+<v t="leo.20170328215422.8"><vh>Week5-4</vh>
 <v t="leo.20170328215422.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411232716.1" a="E"><vh>Week5-5</vh>
+<v t="leo.20170411232716.1"><vh>Week5-5</vh>
 <v t="leo.20170411232716.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170412094138.1" a="E"><vh>Week5-6</vh>
+<v t="leo.20170412094138.1"><vh>Week5-6</vh>
 <v t="leo.20170412094138.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170412094610.1" a="E"><vh>Week5-7</vh>
+<v t="leo.20170412094610.1"><vh>Week5-7</vh>
 <v t="leo.20170412094610.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170412094632.1" a="E"><vh>Week5-8</vh>
+<v t="leo.20170412094632.1"><vh>Week5-8</vh>
 <v t="leo.20170412094632.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170328215422.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170328215422.10"><vh>導入影片</vh>
 <v t="leo.20170328215422.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170411163010.1"><vh>Week6</vh>
-<v t="leo.20170411163010.2" a="E"><vh>Week6 content</vh>
+<v t="leo.20170411163010.2"><vh>Week6 content</vh>
 <v t="leo.20170411163010.3"><vh>Week6-1</vh></v>
 </v>
-<v t="leo.20170411163010.4" a="E"><vh>Week6-2</vh>
+<v t="leo.20170411163010.4"><vh>Week6-2</vh>
 <v t="leo.20170411163010.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411163010.6" a="E"><vh>Week6-3</vh>
+<v t="leo.20170411163010.6"><vh>Week6-3</vh>
 <v t="leo.20170411163010.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411163010.8" a="E"><vh>Week6-4</vh>
+<v t="leo.20170411163010.8"><vh>Week6-4</vh>
 <v t="leo.20170411163010.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411163010.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170411163010.10"><vh>導入影片</vh>
 <v t="leo.20170411163010.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170411231331.1"><vh>Week7</vh>
-<v t="leo.20170411231331.2" a="E"><vh>Week7 content</vh>
+<v t="leo.20170411231331.2"><vh>Week7 content</vh>
 <v t="leo.20170411231331.3"><vh>Week7-1</vh></v>
 </v>
-<v t="leo.20170411231331.4" a="E"><vh>Week7-2</vh>
+<v t="leo.20170411231331.4"><vh>Week7-2</vh>
 <v t="leo.20170411231331.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411231331.6" a="E"><vh>Week7-3</vh>
+<v t="leo.20170411231331.6"><vh>Week7-3</vh>
 <v t="leo.20170411231331.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411231331.8" a="E"><vh>Week7-4</vh>
+<v t="leo.20170411231331.8"><vh>Week7-4</vh>
 <v t="leo.20170411231331.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411231331.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170411231331.10"><vh>導入影片</vh>
 <v t="leo.20170411231331.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170411235138.1"><vh>Week8</vh>
-<v t="leo.20170411235138.2" a="E"><vh>Week8 content</vh>
+<v t="leo.20170411235138.2"><vh>Week8 content</vh>
 <v t="leo.20170411235138.3"><vh>Week8-1</vh></v>
 </v>
-<v t="leo.20170411235138.4" a="E"><vh>Week8-2</vh>
+<v t="leo.20170411235138.4"><vh>Week8-2</vh>
 <v t="leo.20170411235138.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411235138.6" a="E"><vh>Week8-3</vh>
+<v t="leo.20170411235138.6"><vh>Week8-3</vh>
 <v t="leo.20170411235138.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411235138.8" a="E"><vh>Week8-4</vh>
+<v t="leo.20170411235138.8"><vh>Week8-4</vh>
 <v t="leo.20170411235138.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170411235138.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170411235138.10"><vh>導入影片</vh>
 <v t="leo.20170411235138.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170419092650.1"><vh>Week9</vh>
-<v t="leo.20170419092650.2" a="E"><vh>Week9 content</vh>
+<v t="leo.20170419092650.2"><vh>Week9 content</vh>
 <v t="leo.20170419092650.3"><vh>Week9-1</vh></v>
 </v>
-<v t="leo.20170419092650.4" a="E"><vh>Week9-2</vh>
+<v t="leo.20170419092650.4"><vh>Week9-2</vh>
 <v t="leo.20170419092650.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419092650.6" a="E"><vh>Week9-3</vh>
+<v t="leo.20170419092650.6"><vh>Week9-3</vh>
 <v t="leo.20170419092650.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419092650.8" a="E"><vh>Week9-4</vh>
+<v t="leo.20170419092650.8"><vh>Week9-4</vh>
 <v t="leo.20170419092650.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419094610.1" a="E"><vh>Week9-5</vh>
+<v t="leo.20170419094610.1"><vh>Week9-5</vh>
 <v t="leo.20170419094610.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419095524.1" a="E"><vh>Week9-6</vh>
+<v t="leo.20170419095524.1"><vh>Week9-6</vh>
 <v t="leo.20170419095524.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419110809.1" a="E"><vh>Week9-7</vh>
+<v t="leo.20170419110809.1"><vh>Week9-7</vh>
 <v t="leo.20170419110809.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419110948.1" a="E"><vh>Week9-8</vh>
+<v t="leo.20170419110948.1"><vh>Week9-8</vh>
 <v t="leo.20170419110948.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419114348.1" a="E"><vh>Week9-9</vh>
+<v t="leo.20170419114348.1"><vh>Week9-9</vh>
 <v t="leo.20170419114348.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170419092650.10" a="E"><vh>導入影片1</vh>
+<v t="leo.20170419092650.10"><vh>導入影片1</vh>
 <v t="leo.20170419092650.11"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20170419111018.1" a="E"><vh>導入影片2</vh>
+<v t="leo.20170419111018.1"><vh>導入影片2</vh>
 <v t="leo.20170419111018.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20170426173211.1" a="E"><vh>導入影片3</vh>
+<v t="leo.20170426173211.1"><vh>導入影片3</vh>
 <v t="leo.20170426173211.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170517091052.1"><vh>Week10</vh>
-<v t="leo.20170517091052.2" a="E"><vh>Week10 content</vh>
+<v t="leo.20170517091052.2"><vh>Week10 content</vh>
 <v t="leo.20170517091052.3"><vh>Week10-1</vh></v>
 </v>
-<v t="leo.20170517091052.4" a="E"><vh>Week10-2</vh>
+<v t="leo.20170517091052.4"><vh>Week10-2</vh>
 <v t="leo.20170517091052.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517091052.6" a="E"><vh>Week10-3</vh>
+<v t="leo.20170517091052.6"><vh>Week10-3</vh>
 <v t="leo.20170517091052.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517091052.8" a="E"><vh>Week10-4</vh>
+<v t="leo.20170517091052.8"><vh>Week10-4</vh>
 <v t="leo.20170517091052.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517091052.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170517091052.10"><vh>導入影片</vh>
 <v t="leo.20170517091052.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170517091228.1"><vh>Week11</vh>
-<v t="leo.20170517091228.2" a="E"><vh>Week11 content</vh>
+<v t="leo.20170517091228.2"><vh>Week11 content</vh>
 <v t="leo.20170517091228.3"><vh>Week11-1</vh></v>
 </v>
-<v t="leo.20170517091228.4" a="E"><vh>Week11-2</vh>
+<v t="leo.20170517091228.4"><vh>Week11-2</vh>
 <v t="leo.20170517091228.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517091228.6" a="E"><vh>Week11-3</vh>
+<v t="leo.20170517091228.6"><vh>Week11-3</vh>
 <v t="leo.20170517091228.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517091228.8" a="E"><vh>Week11-4</vh>
+<v t="leo.20170517091228.8"><vh>Week11-4</vh>
 <v t="leo.20170517091228.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517095451.1" a="E"><vh>Week11-5</vh>
+<v t="leo.20170517095451.1"><vh>Week11-5</vh>
 <v t="leo.20170517095451.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517095507.1" a="E"><vh>Week11-6</vh>
+<v t="leo.20170517095507.1"><vh>Week11-6</vh>
 <v t="leo.20170517095507.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517095517.1" a="E"><vh>Week11-7</vh>
+<v t="leo.20170517095517.1"><vh>Week11-7</vh>
 <v t="leo.20170517095517.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517095524.1" a="E"><vh>Week11-8</vh>
+<v t="leo.20170517095524.1"><vh>Week11-8</vh>
 <v t="leo.20170517095524.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517095536.1" a="E"><vh>Week11-9</vh>
+<v t="leo.20170517095536.1"><vh>Week11-9</vh>
 <v t="leo.20170517095536.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517095548.1" a="E"><vh>Week11-10</vh>
+<v t="leo.20170517095548.1"><vh>Week11-10</vh>
 <v t="leo.20170517095548.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517095600.1" a="E"><vh>Week11-11</vh>
+<v t="leo.20170517095600.1"><vh>Week11-11</vh>
 <v t="leo.20170517095600.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517102725.1" a="E"><vh>Week11-12</vh>
+<v t="leo.20170517102725.1"><vh>Week11-12</vh>
 <v t="leo.20170517102725.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517102728.1" a="E"><vh>Week11-13</vh>
+<v t="leo.20170517102728.1"><vh>Week11-13</vh>
 <v t="leo.20170517102728.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517091228.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170517091228.10"><vh>導入影片</vh>
 <v t="leo.20170517091228.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170517103152.1"><vh>Week12</vh>
-<v t="leo.20170517103152.2" a="E"><vh>Week12 content</vh>
+<v t="leo.20170517103152.2"><vh>Week12 content</vh>
 <v t="leo.20170517103152.3"><vh>Week12-1</vh></v>
 </v>
-<v t="leo.20170517103152.4" a="E"><vh>Week12-2</vh>
+<v t="leo.20170517103152.4"><vh>Week12-2</vh>
 <v t="leo.20170517103152.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517103152.6" a="E"><vh>Week12-3</vh>
+<v t="leo.20170517103152.6"><vh>Week12-3</vh>
 <v t="leo.20170517103152.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517103152.8" a="E"><vh>Week12-4</vh>
+<v t="leo.20170517103152.8"><vh>Week12-4</vh>
 <v t="leo.20170517103152.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517103152.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170517103152.10"><vh>導入影片</vh>
 <v t="leo.20170517103152.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170517103219.1"><vh>Week13</vh>
-<v t="leo.20170517103219.2" a="E"><vh>Week13 content</vh>
+<v t="leo.20170517103219.2"><vh>Week13 content</vh>
 <v t="leo.20170517103219.3"><vh>Week13-1</vh></v>
 </v>
-<v t="leo.20170517103219.4" a="E"><vh>Week13-2</vh>
+<v t="leo.20170517103219.4"><vh>Week13-2</vh>
 <v t="leo.20170517103219.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517103219.6" a="E"><vh>Week13-3</vh>
+<v t="leo.20170517103219.6"><vh>Week13-3</vh>
 <v t="leo.20170517103219.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517103219.8" a="E"><vh>Week13-4</vh>
+<v t="leo.20170517103219.8"><vh>Week13-4</vh>
 <v t="leo.20170517103219.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517103219.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170517103219.10"><vh>導入影片</vh>
 <v t="leo.20170517103219.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170524225239.1"><vh>Week14</vh>
-<v t="leo.20170524225239.2" a="E"><vh>Week14 content</vh>
+<v t="leo.20170524225239.2"><vh>Week14 content</vh>
 <v t="leo.20170524225239.3"><vh>Week14-1</vh></v>
 </v>
-<v t="leo.20170524225239.4" a="E"><vh>Week14-2</vh>
+<v t="leo.20170524225239.4"><vh>Week14-2</vh>
 <v t="leo.20170524225239.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170524225239.6" a="E"><vh>Week14-3</vh>
+<v t="leo.20170524225239.6"><vh>Week14-3</vh>
 <v t="leo.20170524225239.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170524225239.8" a="E"><vh>Week14-4</vh>
+<v t="leo.20170524225239.8"><vh>Week14-4</vh>
 <v t="leo.20170524225239.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170524225239.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170524225239.10"><vh>導入影片</vh>
 <v t="leo.20170524225239.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20170531083720.1"><vh>Week15</vh>
-<v t="leo.20170531083720.2" a="E"><vh>Week15 content</vh>
+<v t="leo.20170531083720.2"><vh>Week15 content</vh>
 <v t="leo.20170531083720.3"><vh>Week15-1</vh></v>
 </v>
-<v t="leo.20170531083720.4" a="E"><vh>Week15-2</vh>
+<v t="leo.20170531083720.4"><vh>Week15-2</vh>
 <v t="leo.20170531083720.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170531083720.6" a="E"><vh>Week15-3</vh>
+<v t="leo.20170531083720.6"><vh>Week15-3</vh>
 <v t="leo.20170531083720.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170531083720.8" a="E"><vh>Week15-4</vh>
+<v t="leo.20170531083720.8"><vh>Week15-4</vh>
 <v t="leo.20170531083720.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170531083720.10" a="E"><vh>導入影片</vh>
+<v t="leo.20170531083720.10"><vh>導入影片</vh>
 <v t="leo.20170531083720.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -400,7 +400,7 @@
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 <v t="yen.20170120212350.1"><vh>programs</vh>
-<v t="yen.20170210153828.1" a="E"><vh>v-rep rempte api</vh>
+<v t="yen.20170210153828.1"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
 <v t="yen.20170210222733.1"><vh>line tracer2</vh></v>
@@ -412,12 +412,12 @@
 <v t="yen.20170120232548.1"><vh>calendar example</vh></v>
 <v t="yen.20170123204227.1"><vh>印出月曆以及各課程上課日期</vh></v>
 <v t="yen.20170207092354.1"><vh>協同程式參考</vh></v>
-<v t="yen.20170124102405.1" a="E"><vh>chat</vh>
+<v t="yen.20170124102405.1"><vh>chat</vh>
 <v t="yen.20170124102433.1"><vh>index.html</vh></v>
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170304143747.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170304143747.1"><vh>Recovered Nodes</vh>
 <v t="leo.20170304143747.2"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
 <v t="leo.20170304143747.3"><vh>old:封面投影片內容</vh></v>
 <v t="leo.20170304143747.4"><vh>new:封面投影片內容</vh></v>
