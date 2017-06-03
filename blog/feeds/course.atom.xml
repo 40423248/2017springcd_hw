@@ -958,8 +958,8 @@ class Spur(object):
         # tan(pa*deg)-pa*deg 為漸開線函數
         sigma=math.pi/(2*n)+math.tan(pa*deg)-pa*deg
         for j in range(n):
-            ang=-2.*j*math.pi/n+sigma
-            ang2=2.*j*math.pi/n+sigma
+            ang=-1.*j*math.pi/n+sigma
+            ang2=1.*j*math.pi/n+sigma
             lxd=midx+rd*math.sin(ang2-2.*math.pi/n)
             lyd=midy-rd*math.cos(ang2-2.*math.pi/n)
             for i in range(imax+1):
@@ -1028,29 +1028,6 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
-ctx.beginPath()
-
-ctx.lineWidth="500"
-
-ctx.strokeStyle="white"
-
-ctx.moveTo(0,600)
-
-ctx.lineTo(800,600)
-
-ctx.stroke()
-
-ctx.beginPath()
-
-ctx.lineWidth="3"
-
-ctx.strokeStyle="red"
-
-ctx.moveTo(0,)
-
-ctx.lineTo(400,300)
-
-ctx.stroke()
 &lt;/script&gt;</summary><category term="brython"></category><category term="w15"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
 &lt;h3&gt;1.用python程式來找出缺課同學&lt;/h3&gt;
 &lt;h3&gt;到班級倉儲data下載W2資料夾裡的cd_w2.py和w2b_registered.txt，再來用程式碼印出分組名單、座位列表、缺席學生和學生總數&lt;/h3&gt;
