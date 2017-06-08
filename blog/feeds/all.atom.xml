@@ -1284,7 +1284,16 @@ ctx.fillText("40423248",x_g4-30,y_g4)
 ctx.stroke()
 &lt;/script&gt;
 
-&lt;h3&gt;4. 請依照上述規劃, 在 Onshape 完成相同齒輪組的囓合協同繪圖.&lt;/h3&gt;</summary><category term="brython"></category><category term="w15"></category></entry><entry><title>2017CD第十六週</title><link href="./2017springCD-Week16.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week16.html</id><summary type="html">&lt;p&gt;第十六週上課內容 W16&lt;/p&gt;</summary><category term="brython"></category><category term="w16"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
+&lt;h3&gt;4. 請依照上述規劃, 在 Onshape 完成相同齒輪組的囓合協同繪圖.&lt;/h3&gt;</summary><category term="brython"></category><category term="w15"></category></entry><entry><title>2017CD第十五週-2</title><link href="./2017springCD-Week15-2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week15-2.html</id><summary type="html">&lt;h1&gt;第十五週上課內容-2&lt;/h1&gt;
+&lt;p&gt;準備仿生獸活動軸所需的材料,前往松億螺絲尋找適合的材料,在裡面找一找發現
+原來的設計需要修改許多地方,因為店內有的螺栓和螺絲尺寸大多數都是整數的,
+有小數點的都屬於特規,數量少,價格也貴,而我們原來的軸孔部分的尺寸都有小數
+點,所以還要再另外花時間在修改成整數位的尺寸,才可以做配合&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Week15-2/screw.jpg" width="600" /&gt;&lt;/p&gt;
+&lt;h3&gt;松億螺絲:&lt;/h3&gt;
+&lt;h3&gt;地址:632雲林縣虎尾鎮光明路66號&lt;/h3&gt;
+&lt;h3&gt;營業時間:週一至周五 早上8:10至下午17:10&lt;/h3&gt;
+&lt;h3&gt;電話:05-632-2204&lt;/h3&gt;</summary><category term="brython"></category><category term="w15-2"></category></entry><entry><title>2017CD第十六週</title><link href="./2017springCD-Week16.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week16.html</id><summary type="html">&lt;p&gt;第十六週上課內容 W16&lt;/p&gt;</summary><category term="brython"></category><category term="w16"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
 &lt;h3&gt;1.用python程式來找出缺課同學&lt;/h3&gt;
 &lt;h3&gt;到班級倉儲data下載W2資料夾裡的cd_w2.py和w2b_registered.txt，再來用程式碼印出分組名單、座位列表、缺席學生和學生總數&lt;/h3&gt;
 &lt;h3&gt;2.用solvespace繪製和組立四連桿機構,再轉檔用v-rep開啟&lt;/h3&gt;
