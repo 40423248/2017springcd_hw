@@ -2389,7 +2389,7 @@ ctx.restore()
 
 ###3.把https://github.com/scrum-1/cdbw17這個倉儲設為subw17子目錄
 &lt;img src="./../data/Week17/submodule subw17.png" width="1000" /&gt;
-&lt;img src="./../data/Week17/submodule subw17-2.png" width="1000" /&gt;</summary><category term="brython"></category><category term="w17"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
+&lt;img src="./../data/Week17/submodule subw17-2a.png" width="1000" /&gt;</summary><category term="brython"></category><category term="w17"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
 &lt;h3&gt;1.用python程式來找出缺課同學&lt;/h3&gt;
 &lt;h3&gt;到班級倉儲data下載W2資料夾裡的cd_w2.py和w2b_registered.txt，再來用程式碼印出分組名單、座位列表、缺席學生和學生總數&lt;/h3&gt;
 &lt;h3&gt;2.用solvespace繪製和組立四連桿機構,再轉檔用v-rep開啟&lt;/h3&gt;
