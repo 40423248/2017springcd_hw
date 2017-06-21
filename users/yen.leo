@@ -57,7 +57,7 @@
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170304161410.1" a="E"><vh>Week2</vh>
+<v t="leo.20170304161410.1"><vh>Week2</vh>
 <v t="leo.20170304161410.2"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
@@ -399,10 +399,10 @@
 </v>
 </v>
 <v t="leo.20170621084849.1"><vh>Week18</vh>
-<v t="leo.20170621084849.2"><vh>Week18 content</vh>
-<v t="leo.20170621084849.3"><vh>Week16-1</vh></v>
+<v t="leo.20170621084849.2" a="E"><vh>Week18 content</vh>
+<v t="leo.20170621084849.3"><vh>Week18-1</vh></v>
 </v>
-<v t="leo.20170621084849.4" a="E"><vh>Week18-2</vh>
+<v t="leo.20170621084849.4"><vh>Week18-2</vh>
 <v t="leo.20170621084849.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170621084849.6"><vh>Week18-3</vh>
@@ -2102,7 +2102,13 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 
 						
 </t>
-<t tx="leo.20170621084849.3">##第十六週上課內容 W16
+<t tx="leo.20170621084849.3">##第十八週上課內容 W18
+
+###1.大概的介紹自己在其中之後做了哪些事
+
+###2.以下連結到行走機構網址:
+
+https://40423222.github.io/2017springcd_bg7/blog/%E6%9C%9F%E6%9C%AB%E8%A8%88%E7%95%AB-%E8%A1%8C%E8%B5%B0%E6%A9%9F%E6%A7%8B.html
 </t>
 <t tx="leo.20170621084849.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
