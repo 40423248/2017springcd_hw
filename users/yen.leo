@@ -439,6 +439,7 @@
 <v t="leo.20170608224839.1"><vh>@edit 2017Week15-2.md</vh></v>
 <v t="leo.20170607002243.1"><vh>@edit 2017Week16.md</vh></v>
 <v t="leo.20170614084428.1"><vh>@edit 2017Week17.md</vh></v>
+<v t="leo.20170621085933.1"><vh>@edit 2017Week18.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>

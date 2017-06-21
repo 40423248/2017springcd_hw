@@ -2385,7 +2385,10 @@ ctx.restore()
 
 &lt;h3&gt;3.把https://github.com/scrum-1/cdbw17這個倉儲設為subw17子目錄&lt;/h3&gt;
 &lt;p&gt;&lt;img src="./../data/Week17/submodule subw17.png" width="1000" /&gt;
-&lt;img src="./../data/Week17/submodule subw17-2a.png" width="1000" /&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w17"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
+&lt;img src="./../data/Week17/submodule subw17-2a.png" width="1000" /&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w17"></category></entry><entry><title>2017CD第十八週</title><link href="./2017springCD-Week18.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week18.html</id><summary type="html">&lt;p&gt;第十八週上課內容 W18&lt;/p&gt;
+&lt;h3&gt;1.大概的介紹自己在其中之後做了哪些事&lt;/h3&gt;
+&lt;h3&gt;2.以下連結到行走機構網址:&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/%E6%9C%9F%E6%9C%AB%E8%A8%88%E7%95%AB-%E8%A1%8C%E8%B5%B0%E6%A9%9F%E6%A7%8B.html"&gt;期末行走機構&lt;/a&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w18"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
 &lt;h3&gt;1.用python程式來找出缺課同學&lt;/h3&gt;
 &lt;h3&gt;到班級倉儲data下載W2資料夾裡的cd_w2.py和w2b_registered.txt，再來用程式碼印出分組名單、座位列表、缺席學生和學生總數&lt;/h3&gt;
 &lt;h3&gt;2.用solvespace繪製和組立四連桿機構,再轉檔用v-rep開啟&lt;/h3&gt;
