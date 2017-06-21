@@ -57,20 +57,20 @@
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170304161410.1"><vh>Week2</vh>
+<v t="leo.20170304161410.1" a="E"><vh>Week2</vh>
 <v t="leo.20170304161410.2"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
-<v t="leo.20170304161410.4"><vh>Week2-2</vh>
+<v t="leo.20170304161410.4" a="E"><vh>Week2-2</vh>
 <v t="leo.20170304161410.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170304161410.6"><vh>Week2-3</vh>
+<v t="leo.20170304161410.6" a="E"><vh>Week2-3</vh>
 <v t="leo.20170304161410.7"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170304161410.8"><vh>Week2-4</vh>
+<v t="leo.20170304161410.8" a="E"><vh>Week2-4</vh>
 <v t="leo.20170304161410.9"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170412115648.1"><vh>Week2-5</vh>
+<v t="leo.20170412115648.1" a="E"><vh>Week2-5</vh>
 <v t="leo.20170412115648.2"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170304161410.10"><vh>導入影片</vh>
@@ -319,7 +319,7 @@
 <v t="leo.20170517103152.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170517103219.1" a="E"><vh>Week13</vh>
+<v t="leo.20170517103219.1"><vh>Week13</vh>
 <v t="leo.20170517103219.2" a="E"><vh>Week13 content</vh>
 <v t="leo.20170517103219.3"><vh>Week13-1</vh></v>
 </v>
@@ -368,7 +368,7 @@
 <v t="leo.20170607002207.2"><vh>Week16 content</vh>
 <v t="leo.20170607002207.3"><vh>Week16-1</vh></v>
 </v>
-<v t="leo.20170607002207.4"><vh>Week16-2</vh>
+<v t="leo.20170607002207.4" a="E"><vh>Week16-2</vh>
 <v t="leo.20170607002207.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170607002207.6"><vh>Week16-3</vh>
@@ -379,6 +379,40 @@
 </v>
 <v t="leo.20170607002207.10"><vh>導入影片</vh>
 <v t="leo.20170607002207.11"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621084842.1"><vh>Week17</vh>
+<v t="leo.20170621084842.2"><vh>Week17 content</vh>
+<v t="leo.20170621084842.3"><vh>Week16-1</vh></v>
+</v>
+<v t="leo.20170621084842.4"><vh>Week17-2</vh>
+<v t="leo.20170621084842.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170621084842.6"><vh>Week17-3</vh>
+<v t="leo.20170621084842.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170621084842.8"><vh>Week17-4</vh>
+<v t="leo.20170621084842.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170621084842.10"><vh>導入影片</vh>
+<v t="leo.20170621084842.11"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621084849.1"><vh>Week18</vh>
+<v t="leo.20170621084849.2"><vh>Week18 content</vh>
+<v t="leo.20170621084849.3"><vh>Week16-1</vh></v>
+</v>
+<v t="leo.20170621084849.4" a="E"><vh>Week18-2</vh>
+<v t="leo.20170621084849.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170621084849.6"><vh>Week18-3</vh>
+<v t="leo.20170621084849.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170621084849.8"><vh>Week18-4</vh>
+<v t="leo.20170621084849.9"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170621084849.10"><vh>導入影片</vh>
+<v t="leo.20170621084849.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -1930,11 +1964,8 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 
 						
 </t>
-<t tx="leo.20170607002207.3">##第十四週
-架設ubuntu伺服器
-
-###Ubuntu簡介:
-###Ubuntu是基於Debian的Linux發行版。Debian的版本更新時間不固定，但Ubuntu會固定在每年的4月和10月釋出新版(每半年一新版)，版本號碼就是「年份.月份」，例如在2014年4月發佈的版本，號碼就是14.04；在2009年10月發佈的版本，號碼就是9.10。通常每隔兩年會釋出一個更新支援期長達2年以上的LTS(Long Term Support)版本，例如10.04、12.04、14.04、16.04就是LTS版，LTS版本因為支援期長，有很多時間修復BUG，因此愈後期的LTS版，執行起來會更穩定，如果有架設伺服器的需求，安裝LTS版本會是較好的選擇，尤其又以安裝專門用來架設伺服器的Ubuntu Server最好。</t>
+<t tx="leo.20170607002207.3">##第十六週上課內容 W16
+</t>
 <t tx="leo.20170607002207.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1946,7 +1977,8 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 
 						
 </t>
-<t tx="leo.20170607002207.5">##1.none</t>
+<t tx="leo.20170607002207.5">##1.老師介紹怎麼用Xming來連結Fossil伺服器
+&lt;img src="data/Week16/xming-install1.png" width="600" /&gt;</t>
 <t tx="leo.20170607002207.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1971,6 +2003,144 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 						
 </t>
 <t tx="leo.20170607002207.9">## 3.</t>
+<t tx="leo.20170621084842.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084842.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084842.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170621084842.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084842.3">##第十六週上課內容 W16
+</t>
+<t tx="leo.20170621084842.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084842.5">##1.老師介紹怎麼用Xming來連結Fossil伺服器
+&lt;img src="data/Week16/xming-install1.png" width="600" /&gt;</t>
+<t tx="leo.20170621084842.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084842.7">## 2.</t>
+<t tx="leo.20170621084842.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084842.9">## 3.</t>
+<t tx="leo.20170621084849.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084849.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084849.11">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170621084849.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084849.3">##第十六週上課內容 W16
+</t>
+<t tx="leo.20170621084849.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084849.5">##1.老師介紹怎麼用Xming來連結Fossil伺服器
+&lt;img src="data/Week16/xming-install1.png" width="600" /&gt;</t>
+<t tx="leo.20170621084849.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084849.7">## 2.</t>
+<t tx="leo.20170621084849.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084849.9">## 3.</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
