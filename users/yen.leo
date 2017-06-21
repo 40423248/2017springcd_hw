@@ -204,10 +204,10 @@
 </v>
 </v>
 <v t="leo.20170419092650.1"><vh>Week9</vh>
-<v t="leo.20170419092650.2"><vh>Week9 content</vh>
+<v t="leo.20170419092650.2" a="E"><vh>Week9 content</vh>
 <v t="leo.20170419092650.3"><vh>Week9-1</vh></v>
 </v>
-<v t="leo.20170419092650.4"><vh>Week9-2</vh>
+<v t="leo.20170419092650.4" a="E"><vh>Week9-2</vh>
 <v t="leo.20170419092650.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170419092650.6"><vh>Week9-3</vh>
@@ -245,7 +245,7 @@
 <v t="leo.20170517091052.2"><vh>Week10 content</vh>
 <v t="leo.20170517091052.3"><vh>Week10-1</vh></v>
 </v>
-<v t="leo.20170517091052.4"><vh>Week10-2</vh>
+<v t="leo.20170517091052.4" a="E"><vh>Week10-2</vh>
 <v t="leo.20170517091052.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170517091052.6"><vh>Week10-3</vh>
@@ -319,20 +319,14 @@
 <v t="leo.20170517103152.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170517103219.1"><vh>Week13</vh>
-<v t="leo.20170517103219.2"><vh>Week13 content</vh>
+<v t="leo.20170517103219.1" a="E"><vh>Week13</vh>
+<v t="leo.20170517103219.2" a="E"><vh>Week13 content</vh>
 <v t="leo.20170517103219.3"><vh>Week13-1</vh></v>
 </v>
-<v t="leo.20170517103219.4"><vh>Week13-2</vh>
+<v t="leo.20170517103219.4" a="E"><vh>Week13-2</vh>
 <v t="leo.20170517103219.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20170517103219.6"><vh>Week13-3</vh>
-<v t="leo.20170517103219.7"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20170517103219.8"><vh>Week13-4</vh>
-<v t="leo.20170517103219.9"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20170517103219.10"><vh>導入影片</vh>
+<v t="leo.20170517103219.10" a="E"><vh>導入影片</vh>
 <v t="leo.20170517103219.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -340,7 +334,7 @@
 <v t="leo.20170524225239.2"><vh>Week14 content</vh>
 <v t="leo.20170524225239.3"><vh>Week14-1</vh></v>
 </v>
-<v t="leo.20170524225239.4"><vh>Week14-2</vh>
+<v t="leo.20170524225239.4" a="E"><vh>Week14-2</vh>
 <v t="leo.20170524225239.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170524225239.6"><vh>Week14-3</vh>
@@ -1735,8 +1729,7 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe src="https://player.vimeo.com/video/221450668" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170517103219.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1748,9 +1741,10 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 
 						
 </t>
-<t tx="leo.20170517103219.3">##第十三週
+<t tx="leo.20170517103219.3">###第十三週上課內容
 
-</t>
+###1.用OnShape來繪製漸開線齒輪
+###參考:https://www.khkgears.co.jp/tw/gear_technology/pdf/gear_guide1.pdf</t>
 <t tx="leo.20170517103219.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1762,31 +1756,8 @@ https://www.onshape.com/cad-blog/featurescript-its-so-easy-an-engineer-can-do-it
 
 						
 </t>
-<t tx="leo.20170517103219.5">##1.none</t>
-<t tx="leo.20170517103219.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170517103219.7">## 2.</t>
-<t tx="leo.20170517103219.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170517103219.9">## 3.</t>
+<t tx="leo.20170517103219.5">###1.用OnShape來繪製漸開線齒輪
+###參考:https://www.khkgears.co.jp/tw/gear_technology/pdf/gear_guide1.pdf</t>
 <t tx="leo.20170524225239.1">&lt;section&gt;
 @others
 &lt;/section&gt;
