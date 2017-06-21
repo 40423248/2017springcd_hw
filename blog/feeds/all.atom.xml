@@ -2,6 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>2017CD第一週</title><link href="./2017springCD-Week1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week1.html</id><summary type="html">&lt;p&gt;第一週上課內容&lt;/p&gt;
 &lt;h3&gt;1.本學期課程概要&lt;/h3&gt;
 &lt;p&gt;登錄Github到老師的Mdecourse的倉儲看大綱&lt;/p&gt;
+
+
 &lt;p&gt;有介紹一些3D軟體的相聯性&lt;/p&gt;
 &lt;p&gt;概略介紹C和PYTHON的優缺點&lt;/p&gt;
 &lt;h3&gt;2.用正確的方式打開Stunnel&lt;/h3&gt;
@@ -17,6 +19,8 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/209055449"&gt;2017CD 第一週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="brython"></category><category term="w1"></category></entry><entry><title>2017CD第十週</title><link href="./2017springCD-Week10.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week10.html</id><summary type="html">&lt;p&gt;第十週上課內容&lt;/p&gt;
 &lt;h3&gt;補上期中報告缺的東西&lt;/h3&gt;</summary><category term="brython"></category><category term="w10"></category></entry><entry><title>2017CD第十一週</title><link href="./2017springCD-Week11.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week11.html</id><summary type="html">&lt;p&gt;第十一週上課內容&lt;/p&gt;
 &lt;h3&gt;1.小組協同閱讀兩本電子書翻譯並寫下心得&lt;/h3&gt;
+
+
 &lt;h3&gt;這裡為Onshape's Greatest Tech Tips– Volume 1.pdf&lt;/h3&gt;
 &lt;h3&gt;一.比較指令:&lt;/h3&gt;
 &lt;p&gt;提供了可以檢視每次版本的不同,在設計時從原本的架構或是草圖,到後來隨著時間過去愈加愈多東西上去,就形成了許多的版次,
@@ -683,9 +687,13 @@ Spur(ctx).Gear(x_g3, y_g3, rp_g3, n_g3, pa, "red")
 ctx.restore()
 &lt;/script&gt;</summary><category term="brython"></category><category term="w12"></category></entry><entry><title>2017CD第十三週</title><link href="./2017springCD-Week13.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week13.html</id><summary type="html">&lt;p&gt;第十三週上課內容&lt;/p&gt;
 &lt;h3&gt;用OnShape來繪製漸開線齒輪&lt;/h3&gt;
+
+
 &lt;h3&gt;參考:https://www.khkgears.co.jp/tw/gear_technology/pdf/gear_guide1.pdf&lt;/h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/221450668" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="brython"></category><category term="w13"></category></entry><entry><title>2017CD第十四週</title><link href="./2017springCD-Week14.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week14.html</id><summary type="html">&lt;p&gt;第十四週上課內容&lt;/p&gt;
 &lt;p&gt;架設ubuntu伺服器&lt;/p&gt;
+
+
 &lt;p&gt;Ubuntu簡介:
 Ubuntu是基於Debian的Linux發行版。Debian的版本更新時間不固定，但Ubuntu會固定在每年的4月和10月釋出新版(每半年一新版)，版本號碼就是「年份.月份」，例如在2014年4月發佈的版本，號碼就是14.04；在2009年10月發佈的版本，號碼就是9.10。通常每隔兩年會釋出一個更新支援期長達2年以上的LTS(Long Term Support)版本，例如10.04、12.04、14.04、16.04就是LTS版，LTS版本因為支援期長，有很多時間修復BUG，因此愈後期的LTS版，執行起來會更穩定，如果有架設伺服器的需求，安裝LTS版本會是較好的選擇，尤其又以安裝專門用來架設伺服器的Ubuntu Server最好。&lt;/p&gt;
 &lt;p&gt;Ubuntu Server 14.04支援到西元2019年4月，可說是目前最穩定的Ubuntu伺服器版本。&lt;/p&gt;
@@ -1289,6 +1297,8 @@ ctx.stroke()
 
 &lt;h3&gt;4. 請依照上述規劃, 在 Onshape 完成相同齒輪組的囓合協同繪圖.&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/221450936" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w15"></category></entry><entry><title>2017CD第十五週-2</title><link href="./2017springCD-Week15-2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week15-2.html</id><summary type="html">&lt;h1&gt;第十五週上課內容-2&lt;/h1&gt;
+
+
 &lt;p&gt;準備仿生獸活動軸所需的材料,前往松億螺絲尋找適合的材料,在裡面找一找發現
 原來的設計需要修改許多地方,因為店內有的螺栓和螺絲尺寸大多數都是整數的,
 有小數點的都屬於特規,數量少,價格也貴,而我們原來的軸孔部分的尺寸都有小數
@@ -1298,10 +1308,14 @@ ctx.stroke()
 &lt;h3&gt;地址:632雲林縣虎尾鎮光明路66號&lt;/h3&gt;
 &lt;h3&gt;營業時間:週一至周五 早上8:10至下午17:10&lt;/h3&gt;
 &lt;h3&gt;電話:05-632-2204&lt;/h3&gt;</summary><category term="brython"></category><category term="w15-2"></category></entry><entry><title>2017CD第十六週</title><link href="./2017springCD-Week16.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week16.html</id><summary type="html">&lt;p&gt;第十六週上課內容 W16&lt;/p&gt;
+
+
 &lt;p&gt;1.老師介紹怎麼用Xming來連結Fossil伺服器
 &lt;img src="./../data/Week16/xming-install1.png" width="600" /&gt;&lt;/p&gt;
 &lt;p&gt;2.去聽學長們的專題發表&lt;/p&gt;</summary><category term="brython"></category><category term="w16"></category></entry><entry><title>2017CD第十七週</title><link href="./2017springCD-Week17.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week17.html</id><summary type="html">&lt;p&gt;第十七週上課內容 W17&lt;/p&gt;
 &lt;h3&gt;1.solvespace測繪&lt;/h3&gt;
+
+
 &lt;p&gt;&lt;img src="./../data/Week17/sp test1.png" width="800" /&gt;
 &lt;iframe src="./../data/Week17/sp-test1.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;2.solvespace實習查驗題目&lt;/h3&gt;
@@ -1309,7 +1323,7 @@ ctx.stroke()
 &lt;h3&gt;solvespace實習查驗題目2D程式碼&lt;/h3&gt;
 
 &lt;pre class="brush: python"&gt;
-
+&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -2387,9 +2401,12 @@ ctx.restore()
 &lt;p&gt;&lt;img src="./../data/Week17/submodule subw17.png" width="1000" /&gt;
 &lt;img src="./../data/Week17/submodule subw17-2a.png" width="1000" /&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w17"></category></entry><entry><title>2017CD第十八週</title><link href="./2017springCD-Week18.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week18.html</id><summary type="html">&lt;p&gt;第十八週上課內容 W18&lt;/p&gt;
 &lt;h3&gt;1.大概的介紹自己在其中之後做了哪些事&lt;/h3&gt;
-&lt;h3&gt;2.以下連結到行走機構網址:&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/%E6%9C%9F%E6%9C%AB%E8%A8%88%E7%95%AB-%E8%A1%8C%E8%B5%B0%E6%A9%9F%E6%A7%8B.html"&gt;期末行走機構&lt;/a&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w18"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
+&lt;h3&gt;2.以下連結到行走機構和Onshape網址:&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/%E6%9C%9F%E6%9C%AB%E8%A8%88%E7%95%AB-%E8%A1%8C%E8%B5%B0%E6%A9%9F%E6%A7%8B.html"&gt;期末行走機構(倉儲網誌)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/43c74b90eb0aafa6f64e6260/w/89d06f95bee2445c7db3d5d6/e/d084ac72ca838dc1385b4f1e"&gt;期末行走機構(Onshape)&lt;/a&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w18"></category></entry><entry><title>2017CD第二週</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;第二週上課內容&lt;/p&gt;
 &lt;h3&gt;1.用python程式來找出缺課同學&lt;/h3&gt;
+
+
 &lt;h3&gt;到班級倉儲data下載W2資料夾裡的cd_w2.py和w2b_registered.txt，再來用程式碼印出分組名單、座位列表、缺席學生和學生總數&lt;/h3&gt;
 &lt;h3&gt;2.用solvespace繪製和組立四連桿機構,再轉檔用v-rep開啟&lt;/h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/209055543" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -2397,6 +2414,8 @@ ctx.restore()
 &lt;p&gt;&lt;a href="https://vimeo.com/209055543"&gt;2017CD 第二週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="brython"></category><category term="w2"></category></entry><entry><title>2017CD第三週</title><link href="./2017springCD-Week3.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week3.html</id><summary type="html">&lt;p&gt;第三週上課內容&lt;/p&gt;
 &lt;h3&gt;1.打網址進入 "https://mde2a1.kmol.info/"&lt;/h3&gt;
 &lt;p&gt;看每週進度,點進wiki裡面的list,再點進2017springcd,就能看到每一週要做的事&lt;/p&gt;
+
+
 &lt;h2&gt;2.改掉start的fossil路徑,用程式來找電腦的ip位置,再由組長創建該組的https架構,以便讓組員編輯&lt;/h2&gt;
 &lt;h2&gt;3.於課程網頁上的w3部分中從十部影片裡挑選兩部影片,做出中英文的字幕翻譯,並把字幕加入原影片中&lt;/h2&gt;
 &lt;h2&gt;4.用solvespace或Onshape繪製四連桿機構,尺寸為30,50,60公分&lt;/h2&gt;
@@ -2405,6 +2424,8 @@ ctx.restore()
 
 &lt;p&gt;&lt;a href="https://vimeo.com/210430506"&gt;2017CD 第三週&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="brython"></category><category term="w3"></category></entry><entry><title>2017CD第四週</title><link href="./2017springCD-Week4.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week4.html</id><summary type="html">&lt;p&gt;第四週上課內容&lt;/p&gt;
 &lt;h3&gt;1.了解x-windows , vnc , remote desktop , 的功能&lt;/h3&gt;
+
+
 &lt;h3&gt;2.組長建立fossil倉儲,編輯密碼,並把組員拉入&lt;/h3&gt;
 &lt;h3&gt;3.在Onshape或Slovespace中繪製單連桿機構並轉成stl檔案再導入V-REP做測試&lt;/h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/212761593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -2413,6 +2434,8 @@ ctx.restore()
 &lt;h3&gt;1.如何在fossil筆記倉儲頁面顯示作業內容&lt;/h3&gt;
 &lt;h3&gt;在WIKI裡新增一個與倉儲筆記同名稱的檔案，就會在FOSSIL筆記倉儲主頁顯示&lt;/h3&gt;
 &lt;h3&gt;建立時WIKI有三種格式，WIKI、MARKDOWN及HTML，安全性的排序:WIKI&amp;gt;MARKDOWN&amp;gt;HTML&lt;/h3&gt;
+
+
 &lt;h3&gt;2.把單連桿轉為.STL檔，再導入V-rep做動態模擬&lt;/h3&gt;
 &lt;p&gt;&lt;img src="./../data/Week4/bottom.png" width="500" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/Week4/bar.png" width="500" /&gt;&lt;/p&gt;
@@ -2426,6 +2449,8 @@ ctx.restore()
 &lt;p&gt;&lt;img src="./../data/Week4/vrep 7.png" width="600" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/Week4/vrep 8.png" width="600" /&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w5"></category></entry><entry><title>2017CD第六週</title><link href="./2017springCD-Week6.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week6.html</id><summary type="html">&lt;p&gt;第六週上課內容&lt;/p&gt;
 &lt;h2&gt;1.用Onshape裡面的變數限制條件來繪製四連桿，並導入V-REP做動&lt;/h2&gt;
+
+
 &lt;p&gt;&lt;img src="./../data/Week6/OS1.png" width="500" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/Week6/OS2.png" width="500" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/Week6/vrep.png" width="500" /&gt;&lt;/p&gt;
@@ -2438,6 +2463,8 @@ none&lt;/p&gt;</summary><category term="brython"></category><category term="w7">
 &lt;h3&gt;期中協同查驗與自評&lt;/h3&gt;
 &lt;h2&gt;1.Fossil Server 實習查驗&lt;/h2&gt;
 &lt;p&gt;由組員或是組長在教室中用電腦建立fossil server,設定好使用者及密碼後再來是組員個別登錄上去,在wiki建立期中心得報告的格式,打入期中的心得&lt;/p&gt;
+
+
 &lt;h2&gt;2.四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
 &lt;p&gt;各組員用solvespace畫出四連桿,追蹤 T 點軌跡座標並另外檔 (請以 midterm1.csv, midterm2.csv .... 依序命名) &lt;/p&gt;
 &lt;p&gt;各組組員請依學號遞增排序, 排序第1者負責分析 Length=50 的 T 點軌跡圖, 其餘組員則依序將 Length -5的方式來縮減上三角的尺寸&lt;/p&gt;
